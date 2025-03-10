@@ -1,0 +1,3435 @@
+参考文献
+%---------------------------------------------------------------------------%
+%-                                                                         -%
+%-                             Bibliography                                -%
+%-                                                                         -%
+%---------------------------------------------------------------------------%
+
+@article{allisonSARSCoV2InfectionKidney2020,
+  title = {{{SARS-CoV-2}} Infection of Kidney Organoids Prevented with Soluble Human {{ACE2}}},
+  author = {Allison, Susan J.},
+  year = {2020},
+  month = jun,
+  journal = {Nature Reviews Nephrology},
+  volume = {16},
+  number = {6},
+  pages = {316--316},
+  issn = {1759-5061, 1759-507X},
+  doi = {10.1038/s41581-020-0291-8},
+  urldate = {2022-02-16},
+  langid = {english}
+}
+
+@article{andoStayGoldVariantsMolecular2023,
+  title = {{{StayGold}} Variants for Molecular Fusion and Membrane-Targeting Applications},
+  author = {Ando, Ryoko and Shimozono, Satoshi and Ago, Hideo and Takagi, Masatoshi and Sugiyama, Mayu and Kurokawa, Hiroshi and Hirano, Masahiko and Niino, Yusuke and Ueno, Go and Ishidate, Fumiyoshi and Fujiwara, Takahiro and Okada, Yasushi and Yamamoto, Masaki and Miyawaki, Atsushi},
+  year = {2023},
+  month = nov,
+  journal = {Nature Methods},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-023-02085-6},
+  urldate = {2023-12-04},
+  langid = {english}
+}
+
+@article{arribasProteinEctodomainShedding2002,
+  title = {Protein {{Ectodomain Shedding}}},
+  author = {Arribas, Joaqu{\'i}n and Borroto, Aldo},
+  year = {2002},
+  month = dec,
+  journal = {Chemical Reviews},
+  volume = {102},
+  number = {12},
+  pages = {4627--4638},
+  issn = {0009-2665, 1520-6890},
+  doi = {10.1021/cr010202t},
+  urldate = {2022-02-14},
+  langid = {english}
+}
+
+@article{babendreyerDifferentialInductionADAM172020,
+  title = {Differential {{Induction}} of the {{ADAM17 Regulators iRhom1}} and 2 in {{Endothelial Cells}}},
+  author = {Babendreyer, Aaron and {Rojas-Gonz{\'a}lez}, Diana M. and Giese, Anja Adelina and Fellendorf, Sandra and D{\"u}sterh{\"o}ft, Stefan and Mela, Petra and Ludwig, Andreas},
+  year = {2020},
+  month = dec,
+  journal = {Frontiers in Cardiovascular Medicine},
+  volume = {7},
+  pages = {610344},
+  issn = {2297-055X},
+  doi = {10.3389/fcvm.2020.610344},
+  urldate = {2023-03-08},
+  langid = {english}
+}
+
+@article{ballezaSystematicCharacterizationMaturation2018,
+  title = {Systematic Characterization of Maturation Time of Fluorescent Proteins in Living Cells},
+  author = {Balleza, Enrique and Kim, J Mark and Cluzel, Philippe},
+  year = {2018},
+  month = jan,
+  journal = {Nature Methods},
+  volume = {15},
+  number = {1},
+  pages = {47--51},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.4509},
+  urldate = {2022-08-17},
+  langid = {english}
+}
+
+@article{banerjeeLabelingApproachesDNAPAINT2023,
+  title = {Labeling Approaches for {{DNA-PAINT}} Super-Resolution Imaging},
+  author = {Banerjee, Abhinav and Anand, Micky and Ganji, Mahipal},
+  year = {2023},
+  month = apr,
+  journal = {Nanoscale},
+  volume = {15},
+  number = {14},
+  pages = {6563--6580},
+  publisher = {The Royal Society of Chemistry},
+  issn = {2040-3372},
+  doi = {10.1039/D2NR06541J},
+  urldate = {2023-05-30},
+  langid = {english},
+  annotation = {TLDR: This review provides a comprehensive summary of the repertoire of labelling probes used for DNA-PAINT in cells and the strategies implemented to chemically modify them with a docking strand.}
+}
+
+@article{bartolomeAngiotensinConvertingEnzyme2021,
+  title = {Angiotensin Converting Enzyme 2 Is a Novel Target of the {$\gamma$}-Secretase Complex},
+  author = {Bartolom{\'e}, Alberto and Liang, Jiani and Wang, Pengfei and Ho, David D. and Pajvani, Utpal B.},
+  year = {2021},
+  month = dec,
+  journal = {Scientific Reports},
+  volume = {11},
+  number = {1},
+  pages = {9803},
+  issn = {2045-2322},
+  doi = {10.1038/s41598-021-89379-x},
+  urldate = {2022-09-20},
+  langid = {english}
+}
+
+@article{bayatiSARSCoV2InfectsCells2021,
+  title = {{{SARS-CoV-2}} Infects Cells after Viral Entry via Clathrin-Mediated Endocytosis},
+  author = {Bayati, Armin and Kumar, Rahul and Francis, Vincent and McPherson, Peter S.},
+  year = {2021},
+  month = jan,
+  journal = {Journal of Biological Chemistry},
+  volume = {296},
+  pages = {100306},
+  issn = {00219258},
+  doi = {10.1016/j.jbc.2021.100306},
+  urldate = {2022-02-16},
+  langid = {english},
+  annotation = {TLDR: It is demonstrated that following engagement with the plasma membrane, SARS-CoV-2 undergoes rapid clathrin-mediated endocytosis, which suggests that transfer of viral RNA to the cell cytosol occurs from the lumen of the endosomal system, and importantly clATHrin-heavy chain knockdown, which blocks clathin-mediatedendocytotic, reduces viral infectivity.}
+}
+
+@article{bebelmanRealtimeImagingMultivesicular2020,
+  title = {Real-Time Imaging of Multivesicular Body--Plasma Membrane Fusion to Quantify Exosome Release from Single Cells},
+  author = {Bebelman, Maarten P. and Bun, Philippe and Huveneers, Stephan and Van Niel, Guillaume and Pegtel, D. Michiel and Verweij, Frederik J.},
+  year = {2020},
+  month = jan,
+  journal = {Nature Protocols},
+  volume = {15},
+  number = {1},
+  pages = {102--121},
+  issn = {1754-2189, 1750-2799},
+  doi = {10.1038/s41596-019-0245-4},
+  urldate = {2023-11-29},
+  langid = {english},
+  annotation = {TLDR: How live imaging with tetraspanin-based pH-sensitive fluorescent reporters can quantify the MVB--PM fusion rate of single cells is described and a collection of pH- sensitive fluorescent reporters that can be used for real-time dual-color imaging of exosome release from single cells are described.}
+}
+
+@article{benkeMulticolorSingleMolecule2012,
+  title = {Multicolor {{Single Molecule Tracking}} of {{Stochastically Active Synthetic Dyes}}},
+  author = {Benke, Alexander and Olivier, Nicolas and Gunzenh{\"a}user, Julia and Manley, Suliana},
+  year = {2012},
+  month = may,
+  journal = {Nano Letters},
+  volume = {12},
+  number = {5},
+  pages = {2619--2624},
+  issn = {1530-6984, 1530-6992},
+  doi = {10.1021/nl301018r},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{bindelsMScarletBrightMonomeric2017,
+  title = {{{mScarlet}}: A Bright Monomeric Red Fluorescent Protein for Cellular Imaging},
+  shorttitle = {{{mScarlet}}},
+  author = {Bindels, Daphne S and Haarbosch, Lindsay and {van Weeren}, Laura and Postma, Marten and Wiese, Katrin E and Mastop, Marieke and Aumonier, Sylvain and Gotthard, Guillaume and Royant, Antoine and Hink, Mark A and Gadella, Theodorus W J},
+  year = {2017},
+  month = jan,
+  journal = {Nature Methods},
+  volume = {14},
+  number = {1},
+  pages = {53--56},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.4074},
+  urldate = {2022-08-01},
+  langid = {english},
+  annotation = {TLDR: The engineering of mScarlet is reported, a truly monomeric red fluorescent protein with record brightness, quantum yield, and fluorescence lifetime and it is especially useful as a F{\"o}rster resonance energy transfer (FRET) acceptor in ratiometric imaging.}
+}
+
+@article{blackTumorNecrosisFactora2002,
+  title = {Tumor Necrosis Factor-a Converting Enzyme},
+  author = {Black, Roy A},
+  year = {2002},
+  journal = {The International Journal of Biochemistry},
+  langid = {english}
+}
+
+@article{bokaSinglemoleculeTrackingTechnologies2021,
+  title = {Single-Molecule Tracking Technologies for Quantifying the Dynamics of Gene Regulation in Cells, Tissue and Embryos},
+  author = {Boka, Alan P. and Mukherjee, Apratim and Mir, Mustafa},
+  year = {2021},
+  month = sep,
+  journal = {Development},
+  volume = {148},
+  number = {18},
+  pages = {dev199744},
+  issn = {0950-1991, 1477-9129},
+  doi = {10.1242/dev.199744},
+  urldate = {2023-10-19},
+  langid = {english},
+  annotation = {TLDR: An accessible overview of the rapidly expanding family of technologies for single-molecule tracking (SMT), with the goal of enabling the reader to critically analyse single-Molecule studies, as well as to inspire the application of SMT to their own work.}
+}
+
+@article{caescuActivesiteDeterminantsSubstrate2009,
+  title = {Active-Site Determinants of Substrate Recognition by the Metalloproteinases {{TACE}} and {{ADAM10}}},
+  author = {Caescu, Cristina~I. and Jeschke, Grace~R. and Turk, Benjamin~E.},
+  year = {2009},
+  month = nov,
+  journal = {Biochemical Journal},
+  volume = {424},
+  number = {1},
+  pages = {79--88},
+  issn = {0264-6021, 1470-8728},
+  doi = {10.1042/BJ20090549},
+  urldate = {2023-02-03},
+  langid = {english}
+}
+
+@article{caiolfaMonomerDimerDynamics2007,
+  title = {Monomer--Dimer Dynamics and Distribution of {{GPI-anchored uPAR}} Are Determined by Cell Surface Protein Assemblies},
+  author = {Caiolfa, Valeria R. and Zamai, Moreno and Malengo, Gabriele and Andolfo, Annapaola and Madsen, Chris D. and Sutin, Jason and Digman, Michelle A. and Gratton, Enrico and Blasi, Francesco and Sidenius, Nicolai},
+  year = {2007},
+  month = dec,
+  journal = {The Journal of Cell Biology},
+  volume = {179},
+  number = {5},
+  pages = {1067--1082},
+  issn = {1540-8140, 0021-9525},
+  doi = {10.1083/jcb.200702151},
+  urldate = {2024-06-13},
+  langid = {english},
+  annotation = {TLDR: The data demonstrate that cell surface protein assemblies are important in regulating the dynamics and localization of uPAR at the cell membrane and the exchange of monomers and dimers.}
+}
+
+@article{camodecaDiscoveryNewSelective2016,
+  title = {Discovery of a New Selective Inhibitor of {{A Disintegrin And Metalloprotease}} 10 ({{ADAM-10}}) Able to Reduce the Shedding of {{NKG2D}} Ligands in {{Hodgkin}}'s Lymphoma Cell Models},
+  author = {Camodeca, Caterina and Nuti, Elisa and Tepshi, Livia and Boero, Silvia and Tuccinardi, Tiziano and Stura, Enrico A. and Poggi, Alessandro and Zocchi, Maria Raffaella and Rossello, Armando},
+  year = {2016},
+  month = mar,
+  journal = {European Journal of Medicinal Chemistry},
+  volume = {111},
+  pages = {193--201},
+  issn = {1768-3254},
+  doi = {10.1016/j.ejmech.2016.01.053},
+  langid = {american},
+  pmid = {26871660},
+  annotation = {TLDR: The most promising compound was the thiazolidine derivative 3, with nanomolar activity for ADAM-10, high selectivity overADAM-17 and MMPs and good efficacy in reducing the shedding of NKG2D ligands in three different HL cell lines at non-toxic doses.}
+}
+
+@article{campbellChemicallyStableFluorescent2022,
+  title = {Chemically Stable Fluorescent Proteins for Advanced Microscopy},
+  author = {Campbell, Benjamin C. and {Paez-Segala}, Maria G. and Looger, Loren L. and Petsko, Gregory A. and Liu, Ce Feng},
+  year = {2022},
+  month = nov,
+  journal = {Nature Methods},
+  volume = {19},
+  number = {12},
+  pages = {1612--1621},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-022-01660-7},
+  urldate = {2022-11-26},
+  langid = {english},
+  annotation = {TLDR: HfYFP and LSSmGFP represent a new generation of robustly stable fluorescent proteins developed for advanced biotechnological applications and offer unprecedented chemical and thermal stability, making them versatile probes for microscopy as well as for challenging applications like correlative light and electron microscopy and expansion microscopy.}
+}
+
+@article{castellSingleMoleculeFluorescence2018,
+  title = {Single Molecule Fluorescence for Membrane Proteins},
+  author = {Castell, Oliver K. and Dijkman, Patricia M. and Wiseman, Daniel N. and Goddard, Alan D.},
+  year = {2018},
+  month = sep,
+  journal = {Methods},
+  volume = {147},
+  pages = {221--228},
+  issn = {10462023},
+  doi = {10.1016/j.ymeth.2018.05.024},
+  urldate = {2021-09-03},
+  langid = {english},
+  annotation = {TLDR: The creation and use of droplet interface bilayers (DIBs) are detailed which, when coupled to TIRF microscopy, can reveal spatiotemporal and kinetic information for individual membrane proteins.}
+}
+
+@article{cesarattoEngineeredTobaccoEtch2015,
+  title = {Engineered Tobacco Etch Virus ({{TEV}}) Protease Active in the Secretory Pathway of Mammalian Cells},
+  author = {Cesaratto, Francesca and {L{\'o}pez-Requena}, Alejandro and Burrone, Oscar R. and Petris, Gianluca},
+  year = {2015},
+  month = oct,
+  journal = {Journal of Biotechnology},
+  volume = {212},
+  pages = {159--166},
+  issn = {01681656},
+  doi = {10.1016/j.jbiotec.2015.08.026},
+  urldate = {2023-10-11},
+  langid = {english},
+  annotation = {TLDR: A novel engineered TEVp mutant with selected mutations at two verified N-glycosylation sites and at an exposed cysteine was very active in the endoplasmic reticulum of living cells and can be used as a biotechnological tool to cleave proteins within the secretory pathway.}
+}
+
+@article{chalfieGreenFluorescentProtein1994,
+  title = {Green {{Fluorescent Protein}} as a {{Marker}} for {{Gene Expression}}},
+  author = {Chalfie, Martin and Tu, Yuan and Euskirchen, Ghia and Ward, William W. and Prasher, Douglas C.},
+  year = {1994},
+  month = feb,
+  journal = {Science},
+  volume = {263},
+  number = {5148},
+  pages = {802--805},
+  publisher = {American Association for the Advancement of Science},
+  doi = {10.1126/science.8303295},
+  urldate = {2024-11-09},
+  annotation = {TLDR: A complementary DNA for the Aequorea victoria green fluorescent protein produces a fluorescent product when expressed in prokaryotic or eukaryotic cells, which can be used to monitor gene expression and protein localization in living organisms.}
+}
+
+@article{chenMonomersHexamersTheoretical2024,
+  title = {From {{Monomers}} to {{Hexamers}}: {{A Theoretical Probability}} of the {{Neighbor Density Approach}} to {{Dissect Protein Oligomerization}} in {{Cells}}},
+  shorttitle = {From {{Monomers}} to {{Hexamers}}},
+  author = {Chen, Huanhuan and Chen, Tai-Yen},
+  year = {2024},
+  month = jan,
+  journal = {Analytical Chemistry},
+  volume = {96},
+  number = {2},
+  pages = {895--903},
+  issn = {0003-2700, 1520-6882},
+  doi = {10.1021/acs.analchem.3c04728},
+  urldate = {2024-01-24},
+  langid = {english},
+  annotation = {TLDR: The development and validation of the theoretical probability of neighbor density (PND) facilitate accurate protein oligomeric state determination and bolster the understanding of protein-mediated cellular functions.}
+}
+
+@article{costantiniAssessingTendencyFluorescent2012,
+  title = {Assessing the {{Tendency}} of {{Fluorescent Proteins}} to {{Oligomerize Under Physiologic Conditions}}: {{Fluorescent Protein Oligomerization Assay}}},
+  shorttitle = {Assessing the {{Tendency}} of {{Fluorescent Proteins}} to {{Oligomerize Under Physiologic Conditions}}},
+  author = {Costantini, Lindsey M. and Fossati, Matteo and Francolini, Maura and Snapp, Erik Lee},
+  year = {2012},
+  month = may,
+  journal = {Traffic},
+  volume = {13},
+  number = {5},
+  pages = {643--649},
+  issn = {13989219},
+  doi = {10.1111/j.1600-0854.2012.01336.x},
+  urldate = {2022-07-27},
+  langid = {english}
+}
+
+@article{costantiniPaletteFluorescentProteins2015,
+  title = {A Palette of Fluorescent Proteins Optimized for Diverse Cellular Environments},
+  author = {Costantini, Lindsey M. and Baloban, Mikhail and Markwardt, Michele L. and Rizzo, Megan A. and Guo, Feng and Verkhusha, Vladislav V. and Snapp, Erik L.},
+  year = {2015},
+  month = jul,
+  journal = {Nature Communications},
+  volume = {6},
+  number = {1},
+  pages = {7670},
+  issn = {2041-1723},
+  doi = {10.1038/ncomms8670},
+  urldate = {2024-11-09},
+  langid = {english},
+  annotation = {TLDR: An optimized collection of bright and inert FPs optimized for use in multiple cellular compartments, especially oxidizing environments and biological membranes, and finally resolve long-standing, underappreciated and important problems of cell biology are presented.}
+}
+
+@article{craggsGreenFluorescentProtein2009,
+  title = {Green Fluorescent Protein: Structure, Folding and Chromophore Maturation},
+  shorttitle = {Green Fluorescent Protein},
+  author = {Craggs, Timothy D.},
+  year = {2009},
+  journal = {Chemical Society Reviews},
+  volume = {38},
+  number = {10},
+  pages = {2865},
+  issn = {0306-0012, 1460-4744},
+  doi = {10.1039/b903641p},
+  urldate = {2023-12-10},
+  langid = {english},
+  annotation = {TLDR: A greater understanding of the maturation process of fluorescent proteins from both jellyfish and coral species will profit the ongoing quest for brighter, faster maturing, genetically-encodable fluorescent probes of all colours, thus increasing their utility throughout the biomedical sciences.}
+}
+
+@article{cranfillQuantitativeAssessmentFluorescent2016,
+  title = {Quantitative Assessment of Fluorescent Proteins},
+  author = {Cranfill, Paula J and Sell, Brittney R and Baird, Michelle A and Allen, John R and Lavagnino, Zeno and {de Gruiter}, H Martijn and Kremers, Gert-Jan and Davidson, Michael W and Ustione, Alessandro and Piston, David W},
+  year = {2016},
+  month = jul,
+  journal = {Nature Methods},
+  volume = {13},
+  number = {7},
+  pages = {557--562},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.3891},
+  urldate = {2022-08-17},
+  langid = {english},
+  annotation = {TLDR: To guide decisions about which FP is right for a given application, quantitatively characterized the brightness, photostability, pH stability and monomeric properties of more than 40 FPs to enable straightforward and direct comparison between them.}
+}
+
+@article{cunninghamDimerizationControlsLipid2003,
+  title = {Dimerization Controls the Lipid Raft Partitioning of {{uPAR}}/{{CD87}} and Regulates Its Biological Functions},
+  author = {Cunningham, O.},
+  year = {2003},
+  month = nov,
+  journal = {The EMBO Journal},
+  volume = {22},
+  number = {22},
+  pages = {5994--6003},
+  issn = {1460-2075},
+  doi = {10.1093/emboj/cdg588},
+  urldate = {2024-05-10},
+  copyright = {http://doi.wiley.com/10.1002/tdm\_license\_1.1},
+  langid = {english},
+  annotation = {TLDR: It is reported that cell surface uPAR dimerizes and that dimeric uPAR partitions preferentially to detergent-resistant lipid rafts.}
+}
+
+@article{curcioBirefringentFourierFiltering2020,
+  title = {Birefringent {{Fourier}} Filtering for Single Molecule Coordinate and Height Super-Resolution Imaging with Dithering and Orientation},
+  author = {Curcio, Valentina and {Alem{\'a}n-Casta{\~n}eda}, Luis A. and Brown, Thomas G. and Brasselet, Sophie and Alonso, Miguel A.},
+  year = {2020},
+  month = dec,
+  journal = {Nature Communications},
+  volume = {11},
+  number = {1},
+  pages = {5307},
+  issn = {2041-1723},
+  doi = {10.1038/s41467-020-19064-6},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{dahalSinglemoleculeTrackingSMT2023,
+  title = {Single-Molecule Tracking ({{SMT}}): A Window into Live-Cell Transcription Biochemistry},
+  shorttitle = {Single-Molecule Tracking ({{SMT}})},
+  author = {Dahal, Liza and Walther, Nike and Tjian, Robert and Darzacq, Xavier and Graham, Thomas G.W.},
+  year = {2023},
+  month = apr,
+  journal = {Biochemical Society Transactions},
+  volume = {51},
+  number = {2},
+  pages = {557--569},
+  issn = {0300-5127, 1470-8752},
+  doi = {10.1042/BST20221242},
+  urldate = {2023-10-19},
+  langid = {english},
+  annotation = {TLDR: How SMT works, what it can tell us about molecular biology, and how it has changed the authors' perspective on the inner workings of the nucleus are described.}
+}
+
+@article{dahalSurprisingFeaturesNuclear,
+  title = {Surprising {{Features}} of {{Nuclear Receptor Interaction Networks Revealed}} by {{Live Cell Single Molecule Imaging}}},
+  author = {Dahal, Liza},
+  langid = {english}
+}
+
+@article{dahalSurprisingFeaturesNuclear2025,
+  title = {Surprising Features of Nuclear Receptor Interaction Networks Revealed by Live-Cell Single-Molecule Imaging},
+  author = {Dahal, Liza and Graham, Thomas Gw and Dailey, Gina M and Heckert, Alec and Tjian, Robert and Darzacq, Xavier},
+  year = {2025},
+  month = jan,
+  journal = {eLife},
+  volume = {12},
+  pages = {RP92979},
+  issn = {2050-084X},
+  doi = {10.7554/eLife.92979},
+  urldate = {2025-02-14},
+  langid = {english},
+  annotation = {TLDR: It is found that higher expression of RAR, but not RXR, increases heterodimerization and chromatin binding in U2OS cells, indicating the limiting factor is not RXR but likely its cadre of obligate dimer binding partners.}
+}
+
+@article{dengPlasminogenActivatorInhibitor11996,
+  title = {Is Plasminogen Activator Inhibitor-1 the Molecular Switch That Governs Urokinase Receptor-Mediated Cell Adhesion and Release?},
+  author = {Deng, G and Curriden, S A and Wang, S and Rosenberg, S and Loskutoff, D J},
+  year = {1996},
+  month = sep,
+  journal = {The Journal of cell biology},
+  volume = {134},
+  number = {6},
+  pages = {1563--1571},
+  issn = {0021-9525, 1540-8140},
+  doi = {10.1083/jcb.134.6.1563},
+  urldate = {2024-06-13},
+  langid = {english},
+  annotation = {TLDR: A dynamic regulatory role for PAI-1 and uPA in uPAR-mediated cell adhesion and release is suggested, and may help to explain why high PAi-1 levels indicate a poor prognosis for many cancers.}
+}
+
+@article{dongSingleMoleculeFluorescence2021,
+  title = {Single Molecule Fluorescence Imaging of Nanoconfinement in Porous Materials},
+  author = {Dong, Bin and Mansour, Nourhan and Huang, Teng-Xiang and Huang, Wenyu and Fang, Ning},
+  year = {2021},
+  journal = {Chemical Society Reviews},
+  volume = {50},
+  number = {11},
+  pages = {6483--6506},
+  issn = {0306-0012, 1460-4744},
+  doi = {10.1039/D0CS01568G},
+  urldate = {2021-10-18},
+  langid = {english},
+  annotation = {TLDR: This review covers recent progress in using single molecule fluorescence microscopy imaging to understand the nanoconfinement in porous materials and proposes a new approach called single molecule approach, which unveils the static and dynamic heterogeneities from seemingly equal molecules by removing the ensemble averaging effect.}
+}
+
+@article{dorschAnalysisReceptorOligomerization2009,
+  title = {Analysis of Receptor Oligomerization by {{FRAP}} Microscopy},
+  author = {Dorsch, Sandra and Klotz, Karl-Norbert and Engelhardt, Stefan and Lohse, Martin J and B{\"u}nemann, Moritz},
+  year = {2009},
+  month = mar,
+  journal = {Nature Methods},
+  volume = {6},
+  number = {3},
+  pages = {225--230},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.1304},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{drakopoulosInvestigationInactiveStateOpioid2020,
+  title = {Investigation of {{Inactive-State}} {$\kappa$} {{Opioid Receptor Homodimerization}} via {{Single-Molecule Microscopy Using New Antagonistic Fluorescent Probes}}},
+  author = {Drakopoulos, Antonios and Koszegi, Zsombor and Lanoisel{\'e}e, Yann and H{\"u}bner, Harald and Gmeiner, Peter and Calebiro, Davide and Decker, Michael},
+  year = {2020},
+  month = apr,
+  journal = {Journal of Medicinal Chemistry},
+  volume = {63},
+  number = {7},
+  pages = {3596--3609},
+  issn = {0022-2623, 1520-4804},
+  doi = {10.1021/acs.jmedchem.9b02011},
+  urldate = {2023-05-22},
+  langid = {english},
+  annotation = {TLDR: This work presents the first set of fluorescent KOR-selective probes with antagonistic properties, and indicates that most KORs labelled with the new fluorescent probes are present as apparently freely diffusing monomers on the surface of a simple cell model.}
+}
+
+@article{dunsingOptimalFluorescentProtein2018,
+  title = {Optimal Fluorescent Protein Tags for Quantifying Protein Oligomerization in Living Cells},
+  author = {Dunsing, Valentin and Luckner, Madlen and Z{\"u}hlke, Boris and Petazzi, Roberto A. and Herrmann, Andreas and Chiantia, Salvatore},
+  year = {2018},
+  month = jul,
+  journal = {Scientific Reports},
+  volume = {8},
+  number = {1},
+  pages = {10634},
+  issn = {2045-2322},
+  doi = {10.1038/s41598-018-28858-0},
+  urldate = {2024-11-06},
+  langid = {english}
+}
+
+@article{durisicSinglemoleculeEvaluationFluorescent2014,
+  title = {Single-Molecule Evaluation of Fluorescent Protein Photoactivation Efficiency Using an in Vivo Nanotemplate},
+  author = {Durisic, Nela and {Laparra-Cuervo}, Lara and {Sandoval-{\'A}lvarez}, {\'A}ngel and Borbely, Joseph Steven and Lakadamyali, Melike},
+  year = {2014},
+  month = feb,
+  journal = {Nature Methods},
+  volume = {11},
+  number = {2},
+  pages = {156--162},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.2784},
+  urldate = {2024-03-07},
+  langid = {english},
+  annotation = {TLDR: The human glycine receptor expressed in Xenopus oocytes and stepwise photobleaching or single-molecule counting photoactivated localization microcopy (PALM) is used to determine the photoactivation efficiency of fluorescent proteins mEos2, m Eos3.1, mEOS3.2, Dendra 2, mClavGR2,mMaple, PA-GFP and PA-mCherry.}
+}
+
+@article{dusterhoftDistanceDependentShedding2020,
+  title = {Distance Dependent Shedding of {{IL-6R}}},
+  author = {D{\"u}sterh{\"o}ft, Stefan and Bartels, Anne-Kathrin and Koudelka, Tomas and Lilienthal, Eva and Sch{\"a}fer, Miriam and Garbers, Christoph and Tholey, Andreas and Gr{\"o}tzinger, Joachim and Lorenzen, Inken},
+  year = {2020},
+  month = may,
+  journal = {Biochemical and Biophysical Research Communications},
+  volume = {526},
+  number = {2},
+  pages = {355--360},
+  issn = {1090-2104},
+  doi = {10.1016/j.bbrc.2020.03.093},
+  langid = {english},
+  pmid = {32222277},
+  annotation = {TLDR: It is demonstrated that the positioning of the catalytic domain towards the cleavage sites is a crucial part of the shedding process and contributes to the understanding of the complex and multilayered regulation of ADAM17 at the cell surface.}
+}
+
+@article{erdmannLabelingStrategiesMatter2019,
+  title = {Labeling {{Strategies Matter}} for {{Super-Resolution Microscopy}}: {{A Comparison}} between {{HaloTags}} and {{SNAP-tags}}},
+  shorttitle = {Labeling {{Strategies Matter}} for {{Super-Resolution Microscopy}}},
+  author = {Erdmann, Roman S. and Baguley, Stephanie Wood and Richens, Jennifer H. and Wissner, Rebecca F. and Xi, Zhiqun and Allgeyer, Edward S. and Zhong, Sheng and Thompson, Alexander D. and Lowe, Nicholas and Butler, Richard and Bewersdorf, Joerg and Rothman, James E. and St Johnston, Daniel and Schepartz, Alanna and Toomre, Derek},
+  year = {2019},
+  month = apr,
+  journal = {Cell Chemical Biology},
+  volume = {26},
+  number = {4},
+  pages = {584-592.e6},
+  issn = {24519456},
+  doi = {10.1016/j.chembiol.2019.01.003},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: It is found that the fluorescent signal can be up to 9-fold higher with HaloTags than with SNAP-tags when using far-red rhodamine derivatives, demonstrating that the labeling strategy matters and can greatly influence the duration of super-resolution imaging.}
+}
+
+@article{fanSituFluorescentProfiling2019,
+  title = {{\emph{In Situ}} Fluorescent Profiling of Living Cell Membrane Proteins at a Single-Molecule Level},
+  author = {Fan, Yuanyuan and Li, Lu and Lu, Meng and Si, Haibin and Tang, Bo},
+  year = {2019},
+  journal = {Chemical Communications},
+  volume = {55},
+  number = {28},
+  pages = {4043--4046},
+  issn = {1359-7345, 1364-548X},
+  doi = {10.1039/C9CC00244H},
+  urldate = {2024-11-28},
+  langid = {english},
+  annotation = {TLDR: A signal amplification method is proposed that enables visualization analysis of membrane proteins on living cells at a single-molecule level and analyzed the down-regulated expression of EpCAM on the MCF-7 cell surface during epithelial-mesenchymal transition (EMT).}
+}
+
+@article{finanSetHomoOligomericStandards2015,
+  title = {A {{Set}} of {{Homo}}-{{Oligomeric Standards Allows Accurate Protein Counting}}},
+  author = {Finan, Kieran and Raulf, Anika and Heilemann, Mike},
+  year = {2015},
+  month = oct,
+  journal = {Angewandte Chemie International Edition},
+  volume = {54},
+  number = {41},
+  pages = {12049--12052},
+  issn = {1433-7851, 1521-3773},
+  doi = {10.1002/anie.201505664},
+  urldate = {2024-10-16},
+  copyright = {http://onlinelibrary.wiley.com/termsAndConditions\#vor},
+  langid = {english},
+  annotation = {TLDR: A selection of bacterial homo-oligomers were developed that contain 10-24 subunits and fully assemble when expressed in mammalian cells, and they can be used to easily validate/calibrate molecular counting methods.}
+}
+
+@article{freitasSheddingLightInhibitory2021,
+  title = {Shedding {{Light}} on the {{Inhibitory Mechanisms}} of {{SARS-CoV-1}}/{{CoV-2 Spike Proteins}} by {{ACE2-Designed Peptides}}},
+  author = {Freitas, Frederico Campos and Ferreira, Paulo Henrique Borges and Favaro, Denize Cristina and de Oliveira, Ronaldo Junio},
+  year = {2021},
+  month = mar,
+  journal = {Journal of Chemical Information and Modeling},
+  volume = {61},
+  number = {3},
+  pages = {1226--1243},
+  issn = {1549-9596, 1549-960X},
+  doi = {10.1021/acs.jcim.0c01320},
+  urldate = {2023-01-20},
+  langid = {english}
+}
+
+@article{frickeOneTwoThree2015,
+  title = {One, Two or Three? {{Probing}} the Stoichiometry of Membrane Proteins by Single-Molecule Localization Microscopy},
+  shorttitle = {One, Two or Three?},
+  author = {Fricke, Franziska and Beaudouin, Joel and Eils, Roland and Heilemann, Mike},
+  year = {2015},
+  month = sep,
+  journal = {Scientific Reports},
+  volume = {5},
+  number = {1},
+  pages = {14072},
+  issn = {2045-2322},
+  doi = {10.1038/srep14072},
+  urldate = {2024-03-07},
+  langid = {english},
+  annotation = {TLDR: A simple counting strategy based on single-molecule localization microscopy to super-resolve protein structures in intact cells and basic quantitative evaluation that is capable of reporting the oligomeric state of dense, membrane-bound protein complexes is addressed.}
+}
+
+@article{gadellaMScarlet3BrilliantFastmaturing2023,
+  title = {{{mScarlet3}}: A Brilliant and Fast-Maturing Red Fluorescent Protein},
+  shorttitle = {{{mScarlet3}}},
+  author = {Gadella, Theodorus W. J. and Van Weeren, Laura and Stouthamer, Jente and Hink, Mark A. and Wolters, Anouk H. G. and Giepmans, Ben N. G. and Aumonier, Sylvain and Dupuy, J{\'e}r{\^o}me and Royant, Antoine},
+  year = {2023},
+  month = apr,
+  journal = {Nature Methods},
+  volume = {20},
+  number = {4},
+  pages = {541--545},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-023-01809-y},
+  urldate = {2023-12-10},
+  langid = {english}
+}
+
+@article{garcia-escobarCalciumSignalingPathway2022,
+  title = {Calcium {{Signaling Pathway Is Involved}} in the {{Shedding}} of {{ACE2 Catalytic Ectodomain}}: {{New Insights}} for {{Clinical}} and {{Therapeutic Applications}} of {{ACE2}} for {{COVID-19}}},
+  shorttitle = {Calcium {{Signaling Pathway Is Involved}} in the {{Shedding}} of {{ACE2 Catalytic Ectodomain}}},
+  author = {{Garc{\'i}a-Escobar}, Artemio and {Vera-Vera}, Silvio and {Jurado-Rom{\'a}n}, Alfonso and {Jim{\'e}nez-Valero}, Santiago and Galeote, Guillermo and Moreno, Ra{\'u}l},
+  year = {2022},
+  month = jan,
+  journal = {Biomolecules},
+  volume = {12},
+  number = {1},
+  pages = {76},
+  issn = {2218-273X},
+  doi = {10.3390/biom12010076},
+  urldate = {2022-02-14},
+  langid = {english}
+}
+
+@article{gertsikGSecretaseInhibitorsModulators2015,
+  title = {{$\gamma$}-{{Secretase Inhibitors}} and {{Modulators Induce Distinct Conformational Changes}} in the {{Active Sites}} of {$\gamma$}-{{Secretase}} and {{Signal Peptide Peptidase}}},
+  author = {Gertsik, Natalya and Chau, De-Ming and Li, Yue-Ming},
+  year = {2015},
+  month = aug,
+  journal = {ACS Chemical Biology},
+  volume = {10},
+  number = {8},
+  pages = {1925--1931},
+  issn = {1554-8929, 1554-8937},
+  doi = {10.1021/acschembio.5b00321},
+  urldate = {2025-01-18},
+  langid = {english},
+  annotation = {TLDR: It is demonstrated that GSIs and GSMs are altering the structure of not only {$\gamma$}-secretase but also SPP, leading to potential changes in enzyme activity and specificity that may impact the clinical outcomes of these molecules.}
+}
+
+@article{gheblawiAngiotensinConvertingEnzyme22020,
+  title = {Angiotensin-{{Converting Enzyme}} 2: {{SARS-CoV-2 Receptor}} and {{Regulator}} of the {{Renin-Angiotensin System}}: {{Celebrating}} the 20th {{Anniversary}} of the {{Discovery}} of {{ACE2}}},
+  shorttitle = {Angiotensin-{{Converting Enzyme}} 2},
+  author = {Gheblawi, Mahmoud and Wang, Kaiming and Viveiros, Anissa and Nguyen, Quynh and Zhong, Jiu-Chang and Turner, Anthony J. and Raizada, Mohan K. and Grant, Maria B. and Oudit, Gavin Y.},
+  year = {2020},
+  month = may,
+  journal = {Circulation Research},
+  volume = {126},
+  number = {10},
+  pages = {1456--1474},
+  issn = {0009-7330, 1524-4571},
+  doi = {10.1161/CIRCRESAHA.120.317015},
+  urldate = {2023-02-05},
+  langid = {english},
+  annotation = {TLDR: A review summarizes the progress over the past 20 years, highlighting the critical role of ACE2 as the novel SARS-CoV-2 receptor and as the negative regulator of the renin-angiotensin system, together with implications for the coronavirus disease 2019 pandemic and associated cardiovascular diseases.}
+}
+
+@article{glowackaDifferentialDownregulationACE22010,
+  title = {Differential {{Downregulation}} of {{ACE2}} by the {{Spike Proteins}} of {{Severe Acute Respiratory Syndrome Coronavirus}} and {{Human Coronavirus NL63}}},
+  author = {Glowacka, Ilona and Bertram, Stephanie and Herzog, Petra and Pfefferle, Susanne and Steffen, Imke and Muench, Marcus O. and Simmons, Graham and Hofmann, Heike and Kuri, Thomas and Weber, Friedemann and Eichler, Jutta and Drosten, Christian and P{\"o}hlmann, Stefan},
+  year = {2010},
+  month = jan,
+  journal = {Journal of Virology},
+  volume = {84},
+  number = {2},
+  pages = {1198--1205},
+  issn = {0022-538X, 1098-5514},
+  doi = {10.1128/JVI.01248-09},
+  urldate = {2022-09-02},
+  langid = {english}
+}
+
+@article{grahamDetectingMolecularInteractions2022,
+  title = {Detecting Molecular Interactions in Live-Cell Single-Molecule Imaging with Proximity-Assisted Photoactivation ({{PAPA}})},
+  author = {Graham, Thomas Gw and Ferrie, John Joseph and Dailey, Gina M and Tjian, Robert and Darzacq, Xavier},
+  year = {2022},
+  month = aug,
+  journal = {eLife},
+  volume = {11},
+  pages = {e76870},
+  issn = {2050-084X},
+  doi = {10.7554/eLife.76870},
+  urldate = {2023-12-22},
+  langid = {english},
+  annotation = {TLDR: A novel property of rhodamine dyes, proximity-assisted photoactivation (PAPA), in which one fluorophore can reactivate a second fluorideophore from a dark state, establishes a new way in which a photophysical property of fluorophores can be harnessed to study molecular interactions in single-molecule imaging of live cells.}
+}
+
+@techreport{grahamProximityassistedPhotoactivationPAPA2021,
+  type = {Preprint},
+  title = {Proximity-Assisted Photoactivation ({{PAPA}}): {{Detecting}} Molecular Interactions in Live-Cell Single-Molecule Imaging},
+  shorttitle = {Proximity-Assisted Photoactivation ({{PAPA}})},
+  author = {Graham, Thomas G.W. and Ferrie, John J. and Dailey, Gina M. and Tjian, Robert and {Xavier Darzacq}},
+  year = {2021},
+  month = dec,
+  institution = {Biophysics},
+  doi = {10.1101/2021.12.13.472508},
+  urldate = {2022-08-18},
+  langid = {english}
+}
+
+@article{grimmGeneralMethodImprove2015,
+  title = {A General Method to Improve Fluorophores for Live-Cell and Single-Molecule Microscopy},
+  author = {Grimm, Jonathan B. and English, Brian P. and Chen, Jiji and Slaughter, Joel P. and Zhang, Zhengjian and Revyakin, Andrey and Patel, Ronak and Macklin, John J. and Normanno, Davide and Singer, Robert H. and Lionnet, Timoth{\'e}e and Lavis, Luke D.},
+  year = {2015},
+  month = mar,
+  journal = {Nature Methods},
+  volume = {12},
+  number = {3},
+  pages = {244--250},
+  publisher = {Nature Publishing Group},
+  issn = {1548-7105},
+  doi = {10.1038/nmeth.3256},
+  urldate = {2021-09-08},
+  copyright = {2015 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.},
+  langid = {english},
+  annotation = {Bandiera\_abtest: a\\
+Cg\_type: Nature Research Journals\\
+Primary\_atype: Research\\
+Subject\_term: Cellular imaging;Chemical synthesis;Chemical tools;Fluorescent dyes\\
+Subject\_term\_id: cellular-imaging;chemical-synthesis;chemical-tools;fluorescent-dyes\\
+TLDR: Inspired by molecular modeling, the N,N-dimethylamino substituents in tetramethylrhodamine are replaced with four-membered azetidine rings, which doubles the quantum efficiency and improves the photon yield of the dye in applications ranging from in vitro single-molecule measurements to super-resolution imaging.}
+}
+
+@article{grimmGeneralMethodImprove2021,
+  title = {A {{General Method}} to {{Improve Fluorophores Using Deuterated Auxochromes}}},
+  author = {Grimm, Jonathan B and Xie, Liangqi and Casler, Jason C and Patel, Ronak and Tkachuk, Ariana N and Falco, Natalie and Choi, Heejun and {Lippincott-Schwartz}, Jennifer and Brown, Timothy A and Glick, Benjamin S and Liu, Zhe and Lavis, Luke D},
+  year = {2021},
+  pages = {7},
+  langid = {english}
+}
+
+@article{grobeFunctionalMolecularEvidence2015,
+  title = {Functional and Molecular Evidence for Expression of the Renin Angiotensin System and {{ADAM17-mediated ACE2}} Shedding in {{COS7}} Cells},
+  author = {Grobe, Nadja and Di Fulvio, Mauricio and Kashkari, Nada and Chodavarapu, Harshita and Somineni, Hari K. and Singh, Richa and Elased, Khalid M.},
+  year = {2015},
+  month = may,
+  journal = {American Journal of Physiology-Cell Physiology},
+  volume = {308},
+  number = {9},
+  pages = {C767-C777},
+  issn = {0363-6143, 1522-1563},
+  doi = {10.1152/ajpcell.00247.2014},
+  urldate = {2023-01-20},
+  langid = {english},
+  annotation = {TLDR: This is the first study demonstrating endogenous expression of the RAS and ADAM17 in the widely used COS7 cell line and its utility to study ectodomain shedding of ACE2 mediated by ADam17 in vitro.}
+}
+
+@article{grussmayerSingleMoleculeStudiesLabel2014,
+  title = {Single-{{Molecule Studies}} on the {{Label Number Distribution}} of {{Fluorescent Markers}}},
+  author = {Gru{\ss}mayer, Kristin S. and Kurz, Anton and Herten, Dirk-Peter},
+  year = {2014},
+  month = mar,
+  journal = {ChemPhysChem},
+  volume = {15},
+  number = {4},
+  pages = {734--742},
+  issn = {1439-4235, 1439-7641},
+  doi = {10.1002/cphc.201300840},
+  urldate = {2024-09-27},
+  langid = {english}
+}
+
+@article{grussmayerTimeresolvedMoleculeCounting2017,
+  title = {Time-Resolved Molecule Counting by Photon Statistics across the Visible Spectrum},
+  author = {Gru{\ss}mayer, K. S. and Herten, D.-P.},
+  year = {2017},
+  journal = {Physical Chemistry Chemical Physics},
+  volume = {19},
+  number = {13},
+  pages = {8962--8969},
+  issn = {1463-9076, 1463-9084},
+  doi = {10.1039/C7CP00363C},
+  urldate = {2024-09-27},
+  langid = {english}
+}
+
+@article{gruvmayerPhotonsNumbersOut2019,
+  title = {Photons in - Numbers out: Perspectives in Quantitative Fluorescence Microscopy for {\emph{in Situ}} Protein Counting},
+  shorttitle = {Photons in - Numbers Out},
+  author = {Gru{$\beta$}mayer, K S and Yserentant, K and Herten, D-P},
+  year = {2019},
+  month = jan,
+  journal = {Methods and Applications in Fluorescence},
+  volume = {7},
+  number = {1},
+  pages = {012003},
+  issn = {2050-6120},
+  doi = {10.1088/2050-6120/aaf2eb},
+  urldate = {2024-10-16},
+  langid = {english},
+  annotation = {TLDR: Important requirements of an ideal quantitative microscopy approach of general usability are outlined and discussed in the context of existing methods including sample preparation and labeling quality which are essential for the robustness and reliability of the methods and future applications in cell biology.}
+}
+
+@article{guoControlSARSCoV2Infection2022,
+  title = {Control of {{SARS-CoV-2}} Infection by {{MT1-MMP-mediated}} Shedding of {{ACE2}}},
+  author = {Guo, Xuanming and Cao, Jianli and Cai, Jian-Piao and Wu, Jiayan and Huang, Jiangang and Asthana, Pallavi and Wong, Sheung Kin Ken and Ye, Zi-Wei and Gurung, Susma and Zhang, Yijing and Wang, Sheng and Wang, Zening and Ge, Xin and Kwan, Hiu Yee and Lyu, Aiping and Chan, Kui Ming and Wong, Nathalie and Huang, Jiandong and Zhou, Zhongjun and Bian, Zhao-Xiang and Yuan, Shuofeng and Wong, Hoi Leong Xavier},
+  year = {2022},
+  month = dec,
+  journal = {Nature Communications},
+  volume = {13},
+  number = {1},
+  pages = {7907},
+  issn = {2041-1723},
+  doi = {10.1038/s41467-022-35590-x},
+  urldate = {2023-05-30},
+  langid = {english}
+}
+
+@article{hagaModulationTNFaconvertingEnzyme2008,
+  title = {Modulation of {{TNF-$\alpha$-converting}} Enzyme by the Spike Protein of {{SARS-CoV}} and {{ACE2}} Induces {{TNF-$\alpha$}} Production and Facilitates Viral Entry},
+  author = {Haga, Shiori and Yamamoto, Norio and {Nakai-Murakami}, Chikako and Osawa, Yoshiaki and Tokunaga, Kenzo and Sata, Tetsutaro and Yamamoto, Naoki and Sasazuki, Takehiko and Ishizaka, Yukihito},
+  year = {2008},
+  month = jun,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {105},
+  number = {22},
+  pages = {7809--7814},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.0711241105},
+  urldate = {2022-09-13},
+  langid = {english}
+}
+
+@article{haNextGenerationSinglemolecule2022,
+  title = {Next Generation Single-Molecule Techniques: {{Imaging}}, Labeling, and Manipulation in~Vitro and in Cellulo},
+  shorttitle = {Next Generation Single-Molecule Techniques},
+  author = {Ha, Taekjip and Kaiser, Christian and Myong, Sua and Wu, Bin and Xiao, Jie},
+  year = {2022},
+  month = jan,
+  journal = {Molecular Cell},
+  series = {Focus on Technology},
+  volume = {82},
+  number = {2},
+  pages = {304--314},
+  issn = {1097-2765},
+  doi = {10.1016/j.molcel.2021.12.019},
+  urldate = {2022-03-21},
+  langid = {english}
+}
+
+@article{haoSingleMoleculeFluorescenceMicroscopy2020,
+  title = {Single-{{Molecule Fluorescence Microscopy}} for {{Probing}} the {{Electrochemical Interface}}},
+  author = {Hao, Rui and Peng, Zhuoyu and Zhang, Bo},
+  year = {2020},
+  month = jan,
+  journal = {ACS Omega},
+  volume = {5},
+  number = {1},
+  pages = {89--97},
+  issn = {2470-1343, 2470-1343},
+  doi = {10.1021/acsomega.9b03763},
+  urldate = {2022-03-03},
+  langid = {english},
+  annotation = {TLDR: This mini-review discusses several exciting research topics involving the use of SMFM methods for studying surface-immobilized molecules, single freely diffusing molecules,single molecules as catalytic reaction indicators, and single-molecule labeling and imaging of interfacial nanobubbles.}
+}
+
+@article{hauptsDynamicsFluorescenceFluctuations1998,
+  title = {Dynamics of Fluorescence Fluctuations in Green Fluorescent Protein Observed by Fluorescence Correlation Spectroscopy},
+  author = {Haupts, Ulrich and Maiti, Sudipta and Schwille, Petra and Webb, Watt W.},
+  year = {1998},
+  month = nov,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {95},
+  number = {23},
+  pages = {13573--13578},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.95.23.13573},
+  urldate = {2024-11-09},
+  langid = {english},
+  annotation = {TLDR: FCS is a convenient, intrinsically calibrated method for pH measurements in subfemtoliter volumes with nanomolar concentrations of EGFP, and shows contributions from two chemical relaxation processes as well as diffusional concentration fluctuations.}
+}
+
+@article{heckertRecoveringMixturesFastdiffusing2022,
+  title = {Recovering Mixtures of Fast-Diffusing States from Short Single-Particle Trajectories},
+  author = {Heckert, Alec and Dahal, Liza and Tjian, Robert and Darzacq, Xavier},
+  year = {2022},
+  month = sep,
+  journal = {eLife},
+  volume = {11},
+  pages = {e70169},
+  issn = {2050-084X},
+  doi = {10.7554/eLife.70169},
+  urldate = {2023-10-19},
+  langid = {english}
+}
+
+@article{hellmeierQuantificationAbsoluteLabeling2024,
+  title = {Quantification of Absolute Labeling Efficiency at the Single-Protein Level},
+  author = {Hellmeier, Joschka and Strauss, Sebastian and Xu, Shuhan and Masullo, Luciano A. and Unterauer, Eduard M. and Kowalewski, Rafal and Jungmann, Ralf},
+  year = {2024},
+  month = apr,
+  journal = {Nature Methods},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-024-02242-5},
+  urldate = {2024-05-20},
+  langid = {english}
+}
+
+@article{heurichTMPRSS2ADAM17Cleave2014,
+  title = {{{TMPRSS2}} and {{ADAM17 Cleave ACE2 Differentially}} and {{Only Proteolysis}} by {{TMPRSS2 Augments Entry Driven}} by the {{Severe Acute Respiratory Syndrome Coronavirus Spike Protein}}},
+  author = {Heurich, A. and {Hofmann-Winkler}, H. and Gierer, S. and Liepold, T. and Jahn, O. and Pohlmann, S.},
+  year = {2014},
+  month = jan,
+  journal = {Journal of Virology},
+  volume = {88},
+  number = {2},
+  pages = {1293--1307},
+  issn = {0022-538X},
+  doi = {10.1128/JVI.02202-13},
+  urldate = {2022-02-21},
+  langid = {english}
+}
+
+@article{hiranoHighlyPhotostableBright2022,
+  title = {A Highly Photostable and Bright Green Fluorescent Protein},
+  author = {Hirano, Masahiko and Ando, Ryoko and Shimozono, Satoshi and Sugiyama, Mayu and Takeda, Noriyo and Kurokawa, Hiroshi and Deguchi, Ryusaku and Endo, Kazuki and Haga, Kei and {Takai-Todaka}, Reiko and Inaura, Shunsuke and Matsumura, Yuta and Hama, Hiroshi and Okada, Yasushi and Fujiwara, Takahiro and Morimoto, Takuya and Katayama, Kazuhiko and Miyawaki, Atsushi},
+  year = {2022},
+  month = apr,
+  journal = {Nature Biotechnology},
+  volume = {40},
+  number = {9},
+  pages = {1412},
+  issn = {1087-0156, 1546-1696},
+  doi = {10.1038/s41587-022-01278-2},
+  urldate = {2022-05-06},
+  langid = {english},
+  annotation = {TLDR: StayGold, a green fluorescent protein (GFP) derived from the jellyfish Cytaeis uchidae, is presented, over one order of magnitude more photostable than any currently available fluorescent protein and has a cellular brightness similar to mNeonGreen.}
+}
+
+@article{hofmannSusceptibilitySARSCoronavirus2004,
+  title = {Susceptibility to {{SARS}} Coronavirus {{S}} Protein-Driven Infection Correlates with Expression of Angiotensin Converting Enzyme 2 and Infection Can Be Blocked by Soluble Receptor},
+  author = {Hofmann, Heike and Geier, Martina and Marzi, Andrea and Krumbiegel, Mandy and Peipp, Matthias and Fey, Georg H and Gramberg, Thomas and P{\"o}hlmann, Stefan},
+  year = {2004},
+  month = jul,
+  journal = {Biochemical and Biophysical Research Communications},
+  volume = {319},
+  number = {4},
+  pages = {1216--1221},
+  issn = {0006291X},
+  doi = {10.1016/j.bbrc.2004.05.114},
+  urldate = {2023-02-15},
+  langid = {english}
+}
+
+@article{hoyer-hansenCellSurfaceAccelerationUrokinaseCatalyzed1997,
+  title = {Cell-{{Surface Acceleration}} of {{Urokinase-Catalyzed Receptor Cleavage}}},
+  author = {{H{\o}yer-Hansen}, Gunilla and Ploug, Michael and Behrendt, Niels and R{\o}nne, Ebbe and Dan{\o}, Keld},
+  year = {1997},
+  journal = {European Journal of Biochemistry},
+  volume = {243},
+  number = {1-2},
+  pages = {21--26},
+  issn = {1432-1033},
+  doi = {10.1111/j.1432-1033.1997.0021a.x},
+  urldate = {2024-01-24},
+  langid = {english},
+  annotation = {TLDR: The uPA-catalyzed cleavage of uPAR is a new negative-feedback regulation mechanism for cell-surface plasminogen activation and plays a physiological role at specific sites with high local concentrations of uPA, thus adding another step to the complex regulation of this cascade reaction.}
+}
+
+@article{hoyer-hansenUrokinasePlasminogenActivator1992,
+  title = {Urokinase Plasminogen Activator Cleaves Its Cell Surface Receptor Releasing the Ligand-Binding Domain.},
+  author = {{H{\o}yer-Hansen}, G and R{\o}nne, E and Solberg, H and Behrendt, N and Ploug, M and Lund, L.R. and Ellis, V and Dan{\o}, K},
+  year = {1992},
+  month = sep,
+  journal = {Journal of Biological Chemistry},
+  volume = {267},
+  number = {25},
+  pages = {18224--18229},
+  issn = {00219258},
+  doi = {10.1016/S0021-9258(19)37176-5},
+  urldate = {2024-01-24},
+  langid = {english},
+  annotation = {TLDR: It is found that urokinase (uPA) can cleave its receptor between domains 1 and 2 generating a cell-associated uPAR variant without ligand-binding properties, which may represent a regulatory step in the plasminogen activation cascade.}
+}
+
+@article{HP1OligomerizationCompensates2022,
+  title = {{{HP1}} Oligomerization Compensates for Low-Affinity {{H3K9me}} Recognition and Provides a Tunable Mechanism for Heterochromatin-Specific Localization},
+  year = {2022},
+  journal = {SCIENCE ADVANCES},
+  langid = {english}
+}
+
+@article{huentelmanCloningCharacterizationSecreted2004,
+  title = {Cloning and Characterization of a Secreted Form of Angiotensin-Converting Enzyme 2},
+  author = {Huentelman, Matthew J. and Zubcevic, Jasenka and Katovich, Michael J. and Raizada, Mohan K.},
+  year = {2004},
+  month = oct,
+  journal = {Regulatory Peptides},
+  volume = {122},
+  number = {2},
+  pages = {61--67},
+  issn = {01670115},
+  doi = {10.1016/j.regpep.2004.05.003},
+  urldate = {2023-02-15},
+  langid = {english}
+}
+
+@article{hummertPhotobleachingStepAnalysis2021,
+  title = {Photobleaching Step Analysis for Robust Determination of Protein Complex Stoichiometries},
+  author = {Hummert, Johan and Yserentant, Klaus and Fink, Theresa and Euchner, Jonas and Ho, Yin Xin and Tashev, Stanimir Asenov and Herten, Dirk-Peter},
+  editor = {Lidke, Diane},
+  year = {2021},
+  month = nov,
+  journal = {Molecular Biology of the Cell},
+  volume = {32},
+  number = {21},
+  pages = {ar35},
+  issn = {1059-1524, 1939-4586},
+  doi = {10.1091/mbc.E20-09-0568},
+  urldate = {2024-09-27},
+  langid = {english}
+}
+
+@article{huNewMethodStudying2023,
+  title = {A New Method for Studying the Orientation of Membrane Proteins in Plants Based on the Release of a Fluorescent Protein Tag by {{TEV}} Protease},
+  author = {Hu, Jinglei and Chang, Ning and Hong, Conghao and Liu, Jia and Zeng, Fang and Gao, Hongbo},
+  year = {2023},
+  month = sep,
+  journal = {Plant Communications},
+  volume = {4},
+  number = {5},
+  pages = {100602},
+  issn = {25903462},
+  doi = {10.1016/j.xplc.2023.100602},
+  urldate = {2023-10-11},
+  langid = {english},
+  annotation = {TLDR: A simpler method based on release of a fluorescent protein tag (RFT) by the tobacco etch virus (TEV) protease to overcome the shortcomings of FPP and analyze the orientation of membrane proteins in plants is developed.}
+}
+
+@article{ismailfawazDeepLearningTime2019,
+  title = {Deep Learning for Time Series Classification: A Review},
+  shorttitle = {Deep Learning for Time Series Classification},
+  author = {Ismail Fawaz, Hassan and Forestier, Germain and Weber, Jonathan and Idoumghar, Lhassane and Muller, Pierre-Alain},
+  year = {2019},
+  month = jul,
+  journal = {Data Mining and Knowledge Discovery},
+  volume = {33},
+  number = {4},
+  pages = {917--963},
+  issn = {1384-5810, 1573-756X},
+  doi = {10.1007/s10618-019-00619-1},
+  urldate = {2021-10-13},
+  langid = {english},
+  annotation = {TLDR: This article proposes the most exhaustive study of DNNs for TSC by training 8730 deep learning models on 97 time series datasets and provides an open source deep learning framework to the TSC community.}
+}
+
+@techreport{ivorra-mollaMonomericStayGoldFluorescent2023,
+  type = {Preprint},
+  title = {A Monomeric {{StayGold}} Fluorescent Protein},
+  author = {{Ivorra-Molla}, Esther and Akhuli, Dipayan and McAndrew, Martin and Scott, William and Kumar, Lokesh and Palani, Saravanan and Mishima, Masanori and Crow, Allister and Balasubramanian, Mohan},
+  year = {2023},
+  month = jul,
+  institution = {In Review},
+  doi = {10.21203/rs.3.rs-2684100/v1},
+  urldate = {2023-11-21},
+  langid = {english}
+}
+
+@article{iwataSelectiveSpecificRegulation2009,
+  title = {Selective and Specific Regulation of Ectodomain Shedding of Angiotensin-Converting Enzyme 2 by Tumor Necrosis Factor {$\alpha$}-Converting Enzyme},
+  author = {Iwata, Michikado and Silva Enciso, Jorge E. and Greenberg, Barry H.},
+  year = {2009},
+  month = nov,
+  journal = {American Journal of Physiology-Cell Physiology},
+  volume = {297},
+  number = {5},
+  pages = {C1318-C1329},
+  issn = {0363-6143, 1522-1563},
+  doi = {10.1152/ajpcell.00036.2009},
+  urldate = {2023-02-15},
+  langid = {english},
+  annotation = {TLDR: Analysis of TACE structural domains confirmed that the active site in the catalytic domain is essential for ACE2 shedding but that noncatalytic domains also play additional roles.}
+}
+
+@article{jacksonMechanismsSARSCoV2Entry2022,
+  title = {Mechanisms of {{SARS-CoV-2}} Entry into Cells},
+  author = {Jackson, Cody B. and Farzan, Michael and Chen, Bing and Choe, Hyeryun},
+  year = {2022},
+  month = jan,
+  journal = {Nature Reviews Molecular Cell Biology},
+  volume = {23},
+  number = {1},
+  pages = {3--20},
+  issn = {1471-0072, 1471-0080},
+  doi = {10.1038/s41580-021-00418-x},
+  urldate = {2022-02-16},
+  langid = {english},
+  annotation = {TLDR: This Review provides the structural and cellular foundations for understanding the multistep SARS-CoV-2 entry process, including S protein synthesis, S protein structure, conformational transitions necessary for association of the S protein with ACE2, engagement of the receptor-binding domain of the H2O protein withACE2, proteolytic activation of theS protein, endocytosis and membrane fusion.}
+}
+
+@article{jamesSinglemoleculeLevelAnalysis2007,
+  title = {Single-Molecule Level Analysis of the Subunit Composition of the {{T}} Cell Receptor on Live {{T}} Cells},
+  author = {James, John R. and White, Samuel S. and Clarke, Richard W. and Johansen, Adam M. and Dunne, Paul D. and Sleep, David L. and Fitzgerald, William J. and Davis, Simon J. and Klenerman, David},
+  year = {2007},
+  month = nov,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {104},
+  number = {45},
+  pages = {17662--17667},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.0700411104},
+  urldate = {2022-12-09},
+  langid = {english},
+  annotation = {TLDR: T cell hybridomas incubated with mixtures of anti-TCR{$\beta$} Fab fragments labeled with each fluorophore gave a Q value indistinguishable from the Q value for CD86, indicating that the dominant form of the TCR comprises single {$\alpha\beta$} heterodimers.}
+}
+
+@article{jiaEctodomainSheddingAngiotensin2009,
+  title = {Ectodomain Shedding of Angiotensin Converting Enzyme 2 in Human Airway Epithelia},
+  author = {Jia, Hong Peng and Look, Dwight C. and Tan, Ping and Shi, Lei and Hickey, Melissa and Gakhar, Lokesh and Chappell, Mark C. and {Wohlford-Lenane}, Christine and McCray, Paul B.},
+  year = {2009},
+  month = jul,
+  journal = {American Journal of Physiology-Lung Cellular and Molecular Physiology},
+  volume = {297},
+  number = {1},
+  pages = {L84-L96},
+  issn = {1040-0605, 1522-1504},
+  doi = {10.1152/ajplung.00071.2009},
+  urldate = {2021-11-29},
+  langid = {english},
+  annotation = {TLDR: It is reported that ACE2 is shed from human airway epithelia, a site of SARS-CoV infection and soluble ACE2 might play a role in modifying inflammatory processes at the airway mucosal surface.}
+}
+
+@article{jiangACE2ExpressionUpregulated2021,
+  title = {{{ACE2 Expression Is Upregulated}} in {{Inflammatory Corneal Epithelial Cells}} and {{Attenuated}} by {{Resveratrol}}},
+  author = {Jiang, Zhixin and Zhang, Huan and Gao, Juan and Yu, Hao and Han, Ruifang and Zhu, Lin and Chen, Xi and Fan, Qian and Hao, Peng and Wang, Liming and Li, Xuan},
+  year = {2021},
+  month = jun,
+  journal = {Investigative Opthalmology \& Visual Science},
+  volume = {62},
+  number = {7},
+  pages = {25},
+  issn = {1552-5783},
+  doi = {10.1167/iovs.62.7.25},
+  urldate = {2023-03-08},
+  langid = {english}
+}
+
+@article{jiangSinglemoleculeDetectionAssisted2024,
+  title = {Single-Molecule Detection Assisted by the Target-Triggered Signal Amplification Strategy for Ultrasensitive Quantitative Analysis of Intracellular Telomerase Activity},
+  author = {Jiang, Chengfang and Wang, Qi and Geng, Jing and Li, Mengmeng and Zhang, Yuqi and Shi, Xinli and Zhang, Yan and Song, Xinyue and Zhang, Shusheng},
+  year = {2024},
+  journal = {Chemical Communications},
+  volume = {60},
+  number = {14},
+  pages = {1912--1915},
+  issn = {1359-7345, 1364-548X},
+  doi = {10.1039/D3CC05683J},
+  urldate = {2024-11-28},
+  langid = {english},
+  annotation = {TLDR: A multiplex single-molecule quantitative assay of intracellular telomerase was developed that used target-triggered signal amplification to enhance sensitivity, substrate reaction to increase signal stability, and quantum dots to enhance signal-to-noise ratio.}
+}
+
+@article{jonesSinglemoleculeImagingLexA2021,
+  title = {Single-Molecule Imaging of {{LexA}} Degradation in {{Escherichia}} Coli Elucidates Regulatory Mechanisms and Heterogeneity of the {{SOS}} Response},
+  author = {Jones, Emma C. and Uphoff, Stephan},
+  year = {2021},
+  month = aug,
+  journal = {Nature Microbiology},
+  volume = {6},
+  number = {8},
+  pages = {981--990},
+  issn = {2058-5276},
+  doi = {10.1038/s41564-021-00930-y},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: It is shown that self-cleavage of LexA occurs frequently throughout the population during unperturbed growth, rather than being restricted to a subpopulation of cells, which results in substantial cell-to-cell variation in LexA abundances and triggers spontaneous SOS pulses, which enhance bacterial survival in anticipation of stress.}
+}
+
+@article{jonkerAccurateMeasurementFast2019,
+  title = {Accurate Measurement of Fast Endocytic Recycling Kinetics in Real Time},
+  author = {Jonker, Caspar T. H. and Deo, Claire and Zager, Patrick J. and Tkachuk, Ariana N. and Weinstein, Alan M. and {Rodriguez-Boulan}, Enrique and Lavis, Luke D. and Schreiner, Ryan},
+  year = {2019},
+  month = jan,
+  journal = {Journal of Cell Science},
+  pages = {jcs.231225},
+  issn = {1477-9137, 0021-9533},
+  doi = {10.1242/jcs.231225},
+  urldate = {2023-09-26},
+  langid = {english},
+  annotation = {TLDR: A live-cell endocytic recycling assay based on a newly designed cell-impermeable fluorogenic ligand for HaloTag, Janelia Fluor 635i (JF635i, where i indicates impermeant), which allows real-time detection of membrane receptor recycling at steady state is introduced.}
+}
+
+@article{jonkmanTutorialGuidanceQuantitative2020,
+  title = {Tutorial: Guidance for Quantitative Confocal Microscopy},
+  shorttitle = {Tutorial},
+  author = {Jonkman, James and Brown, Claire M. and Wright, Graham D. and Anderson, Kurt I. and North, Alison J.},
+  year = {2020},
+  month = may,
+  journal = {Nature Protocols},
+  volume = {15},
+  number = {5},
+  pages = {1585--1611},
+  issn = {1754-2189, 1750-2799},
+  doi = {10.1038/s41596-020-0313-9},
+  urldate = {2023-06-21},
+  langid = {english},
+  annotation = {TLDR: This tutorial and the accompanying poster provide a guide for performing quantitative fluorescence imaging using confocal microscopy, including advice and troubleshooting information from sample preparation and microscope setup to data analysis and statistics.}
+}
+
+@article{kamezakiVisualizationNeuregulin12016,
+  title = {Visualization of {{Neuregulin}} 1 Ectodomain Shedding Reveals Its Local Processing in Vitro and in Vivo},
+  author = {Kamezaki, Aosa and Sato, Fuminori and Aoki, Kazuhiro and Asakawa, Kazuhide and Kawakami, Koichi and Matsuzaki, Fumio and {Sehara-Fujisawa}, Atsuko},
+  year = {2016},
+  month = jul,
+  journal = {Scientific Reports},
+  volume = {6},
+  number = {1},
+  pages = {28873},
+  issn = {2045-2322},
+  doi = {10.1038/srep28873},
+  urldate = {2023-12-02},
+  langid = {english}
+}
+
+@article{kerssemakersAssemblyDynamicsMicrotubules2006,
+  title = {Assembly Dynamics of Microtubules at Molecular Resolution},
+  author = {Kerssemakers, Jacob W. J. and Laura Munteanu, E. and Laan, Liedewij and Noetzel, Tim L. and Janson, Marcel E. and Dogterom, Marileen},
+  year = {2006},
+  month = aug,
+  journal = {Nature},
+  volume = {442},
+  number = {7103},
+  pages = {709--712},
+  issn = {0028-0836, 1476-4687},
+  doi = {10.1038/nature04928},
+  urldate = {2022-03-24},
+  langid = {english}
+}
+
+@article{kornilovPlasmaLevelsSoluble2020,
+  title = {Plasma Levels of Soluble {{ACE2are}} Associated with Sex, {{Metabolic Syndrome}}, and Its Biomarkers in a Large Cohort, Pointing to a Possible Mechanism for Increased Severity in {{COVID-19}}},
+  author = {Kornilov, Sergey A. and Lucas, Isabelle and Jade, Kathleen and Dai, Chengzhen L. and Lovejoy, Jennifer C. and Magis, Andrew T.},
+  year = {2020},
+  month = dec,
+  journal = {Critical Care},
+  volume = {24},
+  number = {1},
+  pages = {452},
+  issn = {1364-8535},
+  doi = {10.1186/s13054-020-03141-9},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{kusumiTrackingSingleMolecules2014,
+  title = {Tracking Single Molecules at Work in Living Cells},
+  author = {Kusumi, Akihiro and Tsunoyama, Taka A and Hirosawa, Kohichiro M and Kasai, Rinshi S and Fujiwara, Takahiro K},
+  year = {2014},
+  month = jul,
+  journal = {Nature Chemical Biology},
+  volume = {10},
+  number = {7},
+  pages = {524--532},
+  issn = {1552-4450, 1552-4469},
+  doi = {10.1038/nchembio.1558},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{lahlouFluorescenceMeasureLight2023,
+  title = {Fluorescence to Measure Light Intensity},
+  author = {Lahlou, Ali{\'e}nor and Tehrani, Hessam Sepasi and Coghill, Ian and Shpinov, Yuriy and Mandal, Mrinal and Plamont, Marie-Aude and Aujard, Isabelle and Niu, Yuxi and Nedbal, Ladislav and Laz{\'a}r, Dusan and Mahou, Pierre and Supatto, Willy and Beaurepaire, Emmanuel and Eisenmann, Isabelle and Desprat, Nicolas and Croquette, Vincent and Jeanneret, Rapha{\"e}l and Le Saux, Thomas and Jullien, Ludovic},
+  year = {2023},
+  month = nov,
+  journal = {Nature Methods},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-023-02063-y},
+  urldate = {2023-12-07},
+  langid = {english}
+}
+
+@article{laiAngiotensinConvertingEnzyme22011,
+  title = {Angiotensin-{{Converting Enzyme}} 2 {{Ectodomain Shedding Cleavage-Site Identification}}: {{Determinants}} and {{Constraints}}},
+  shorttitle = {Angiotensin-{{Converting Enzyme}} 2 {{Ectodomain Shedding Cleavage-Site Identification}}},
+  author = {Lai, Zon W. and Hanchapola, Iresha and Steer, David L. and Smith, A. Ian},
+  year = {2011},
+  month = jun,
+  journal = {Biochemistry},
+  volume = {50},
+  number = {23},
+  pages = {5182--5194},
+  issn = {0006-2960, 1520-4995},
+  doi = {10.1021/bi200525y},
+  urldate = {2022-02-16},
+  langid = {english}
+}
+
+@article{lambertTumorNecrosisFactora2005,
+  title = {Tumor {{Necrosis Factor-$\alpha$ Convertase}} ({{ADAM17}}) {{Mediates Regulated Ectodomain Shedding}} of the {{Severe-acute Respiratory Syndrome-Coronavirus}} ({{SARS-CoV}}) {{Receptor}}, {{Angiotensin-converting Enzyme-2}} ({{ACE2}})},
+  author = {Lambert, Daniel W. and Yarski, Mike and Warner, Fiona J. and Thornhill, Paul and Parkin, Edward T. and Smith, A. Ian and Hooper, Nigel M. and Turner, Anthony J.},
+  year = {2005},
+  month = aug,
+  journal = {Journal of Biological Chemistry},
+  volume = {280},
+  number = {34},
+  pages = {30113--30119},
+  issn = {00219258},
+  doi = {10.1074/jbc.M505111200},
+  urldate = {2021-11-05},
+  langid = {english}
+}
+
+@article{lattyReferencedSingleMoleculeMeasurements2015,
+  title = {Referenced {{Single-Molecule Measurements Differentiate}} between {{GPCR Oligomerization States}}},
+  author = {Latty, Sarah~L. and Felce, James~H. and Weimann, Laura and Lee, Steven~F. and Davis, Simon~J. and Klenerman, David},
+  year = {2015},
+  month = nov,
+  journal = {Biophysical Journal},
+  volume = {109},
+  number = {9},
+  pages = {1798--1806},
+  issn = {00063495},
+  doi = {10.1016/j.bpj.2015.09.004},
+  urldate = {2024-09-27},
+  langid = {english},
+  annotation = {TLDR: A single-molecule imaging assay that utilizes comparisons with well-characterized control proteins, and relies on cell fixation to limit artifacts arising from differences in the distribution and diffusion of test proteins versus these controls, strengthens the case against invariant GPCR oligomerization.}
+}
+
+@article{leonardMembraneSurfacePlatform2023,
+  title = {The Membrane Surface as a Platform That Organizes Cellular and Biochemical Processes},
+  author = {Leonard, Thomas A. and Loose, Martin and Martens, Sascha},
+  year = {2023},
+  month = jul,
+  journal = {Developmental Cell},
+  pages = {S1534580723002745},
+  issn = {15345807},
+  doi = {10.1016/j.devcel.2023.06.001},
+  urldate = {2023-07-10},
+  langid = {english}
+}
+
+@article{lichtenthalerProteolyticEctodomainShedding2018,
+  title = {Proteolytic Ectodomain Shedding of Membrane Proteins in Mammals---Hardware, Concepts, and Recent Developments},
+  author = {Lichtenthaler, Stefan F and Lemberg, Marius K and Fluhrer, Regina},
+  year = {2018},
+  month = aug,
+  journal = {The EMBO Journal},
+  volume = {37},
+  number = {15},
+  issn = {0261-4189, 1460-2075},
+  doi = {10.15252/embj.201899456},
+  urldate = {2022-09-03},
+  langid = {english}
+}
+
+@article{linProteinLabelingFluorescentProbe2022,
+  title = {Protein-{{Labeling Fluorescent Probe Reveals Ectodomain Shedding}} of {{Transmembrane Carbonic Anhydrases}}},
+  author = {Lin, Fang-Ling and Yen, Jui-Ting and Fang, Pin-Wen and Xu, Shun-Qiang and Lin, Jing-Cyun and Tan, Kui-Thong},
+  year = {2022},
+  month = nov,
+  journal = {ACS Chemical Biology},
+  volume = {17},
+  number = {11},
+  pages = {3218--3228},
+  issn = {1554-8929, 1554-8937},
+  doi = {10.1021/acschembio.2c00679},
+  urldate = {2023-06-09},
+  langid = {english},
+  annotation = {TLDR: A new strategy using an affinity-based protein-labeling fluorescent probe to study ectodomain shedding is described, which identifies that the ADAM17 metalloprotease is responsible for the shedding of carbonic anhydrases.}
+}
+
+@article{liSinglemoleculeImagingTracking2017,
+  title = {Single-Molecule Imaging and Tracking of Molecular Dynamics in Living Cells},
+  author = {Li, Nan and Zhao, Rong and Sun, Yahong and Ye, Zi and He, Kangmin and Fang, Xiaohong},
+  year = {2017},
+  month = sep,
+  journal = {National Science Review},
+  volume = {4},
+  number = {5},
+  pages = {739--760},
+  issn = {2095-5138, 2053-714X},
+  doi = {10.1093/nsr/nww055},
+  urldate = {2022-03-22},
+  langid = {english}
+}
+
+@article{liuBiasedSignalingDue2022,
+  title = {Biased Signaling Due to Oligomerization of the {{G}} Protein-Coupled Platelet-Activating Factor Receptor},
+  author = {Liu, Junke and Tang, Hengmin and Xu, Chanjuan and Zhou, Shengnan and Zhu, Xunying and Li, Yuanyuan and Pr{\'e}zeau, Laurent and Xu, Tao and Pin, Jean-Philippe and Rondard, Philippe and Ji, Wei and Liu, Jianfeng},
+  year = {2022},
+  month = oct,
+  journal = {Nature Communications},
+  volume = {13},
+  number = {1},
+  pages = {6365},
+  issn = {2041-1723},
+  doi = {10.1038/s41467-022-34056-4},
+  urldate = {2024-05-14},
+  langid = {english}
+}
+
+@article{liuImagingLiveCellDynamics2015,
+  title = {Imaging {{Live-Cell Dynamics}} and {{Structure}} at the {{Single-Molecule Level}}},
+  author = {Liu, Zhe and Lavis, Luke~D. and Betzig, Eric},
+  year = {2015},
+  month = may,
+  journal = {Molecular Cell},
+  volume = {58},
+  number = {4},
+  pages = {644--659},
+  issn = {10972765},
+  doi = {10.1016/j.molcel.2015.02.033},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{liuThreeDimensionalSingleMoleculeLocalization2020,
+  title = {Three-{{Dimensional Single-Molecule Localization Microscopy}} in {{Whole-Cell}} and {{Tissue Specimens}}},
+  author = {Liu, Sheng and Huh, Hyun and Lee, Sang-Hyuk and Huang, Fang},
+  year = {2020},
+  month = jun,
+  journal = {Annual Review of Biomedical Engineering},
+  volume = {22},
+  number = {1},
+  pages = {155--184},
+  issn = {1523-9829, 1545-4274},
+  doi = {10.1146/annurev-bioeng-060418-052203},
+  urldate = {2022-07-08},
+  langid = {english},
+  annotation = {TLDR: This work focuses on three-dimensional single-molecule localization microscopy and reviews some of the major roadblocks and developing solutions to resolving thick volumes of cells and tissues at the nanoscale in three dimensions.}
+}
+
+@article{lorenzenControlADAM17Activity2016,
+  title = {Control of {{ADAM17}} Activity by Regulation of Its Cellular Localisation},
+  author = {Lorenzen, Inken and Lokau, Juliane and Korpys, Yvonne and Oldefest, Mirja and Flynn, Charlotte M. and K{\"u}nzel, Ulrike and Garbers, Christoph and Freeman, Matthew and Gr{\"o}tzinger, Joachim and D{\"u}sterh{\"o}ft, Stefan},
+  year = {2016},
+  month = oct,
+  journal = {Scientific Reports},
+  volume = {6},
+  number = {1},
+  pages = {35067},
+  issn = {2045-2322},
+  doi = {10.1038/srep35067},
+  urldate = {2023-06-14},
+  langid = {english}
+}
+
+@article{losHaloTagNovelProtein2008,
+  title = {{{HaloTag}}: {{A Novel Protein Labeling Technology}} for {{Cell Imaging}} and {{Protein Analysis}}},
+  shorttitle = {{{HaloTag}}},
+  author = {Los, Georgyi V. and Encell, Lance P. and McDougall, Mark G. and Hartzell, Danette D. and Karassina, Natasha and Zimprich, Chad and Wood, Monika G. and Learish, Randy and Ohana, Rachel Friedman and Urh, Marjeta and Simpson, Dan and Mendez, Jacqui and Zimmerman, Kris and Otto, Paul and Vidugiris, Gediminas and Zhu, Ji and Darzins, Aldis and Klaubert, Dieter H. and Bulleit, Robert F. and Wood, Keith V.},
+  year = {2008},
+  month = jun,
+  journal = {ACS Chemical Biology},
+  volume = {3},
+  number = {6},
+  pages = {373--382},
+  issn = {1554-8929, 1554-8937},
+  doi = {10.1021/cb800025k},
+  urldate = {2022-02-09},
+  langid = {english},
+  annotation = {TLDR: The utility of this modular protein tagging system for cellular imaging and protein immobilization is demonstrated by analyzing multiple molecular processes associated with NF-kappaB-mediated cellular physiology, including imaging of subcellular protein translocation and capture of protein--protein and protein--DNA complexes.}
+}
+
+@article{luoSingleMoleculeImagingProtein2020,
+  title = {Single-{{Molecule Imaging}} of {{Protein Interactions}} and {{Dynamics}}},
+  author = {Luo, Fang and Qin, Gege and Xia, Tie and Fang, Xiaohong},
+  year = {2020},
+  month = jun,
+  journal = {Annual Review of Analytical Chemistry},
+  volume = {13},
+  number = {1},
+  pages = {337--361},
+  issn = {1936-1327, 1936-1335},
+  doi = {10.1146/annurev-anchem-091619-094308},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: Recent advances in fluorescence-based single-molecule bioimaging of proteins in living cells, and practical considerations of the design of single- molecule fluorescence imaging experiments are reviewed.}
+}
+
+@article{maADAM17MediatesEctodomain2021,
+  title = {{{ADAM17}} Mediates Ectodomain Shedding of the Soluble {{VLDL}} Receptor Fragment in the Retinal Epithelium},
+  author = {Ma, Xiang and Takahashi, Yusuke and Wu, Wenjing and Liang, Wentao and Chen, Jianglei and Chakraborty, Dibyendu and Li, Yangxiong and Du, Yanhong and Benyajati, Siribhinya and Ma, Jian-Xing},
+  year = {2021},
+  month = oct,
+  journal = {The Journal of Biological Chemistry},
+  volume = {297},
+  number = {4},
+  pages = {101185},
+  issn = {1083-351X},
+  doi = {10.1016/j.jbc.2021.101185},
+  langid = {english},
+  pmcid = {PMC8487060},
+  pmid = {34509473},
+  annotation = {TLDR: The first evidence that a disintegrin and metalloprotease 17 (ADAM17) is responsible for sVLDLR shedding in human retinal pigment epithelium cells is presented using pharmacological and genetic approaches and the mechanism underlying VLDLR cleavage is revealed.}
+}
+
+@article{madsenUPARinducedCellAdhesion2007,
+  title = {{{uPAR-induced}} Cell Adhesion and Migration: Vitronectin Provides the Key},
+  shorttitle = {{{uPAR-induced}} Cell Adhesion and Migration},
+  author = {Madsen, Chris D. and Ferraris, Gian Maria Sarra and Andolfo, Annapaola and Cunningham, Orla and Sidenius, Nicolai},
+  year = {2007},
+  month = jun,
+  journal = {The Journal of Cell Biology},
+  volume = {177},
+  number = {5},
+  pages = {927--939},
+  issn = {1540-8140, 0021-9525},
+  doi = {10.1083/jcb.200612058},
+  urldate = {2024-06-13},
+  langid = {english},
+  annotation = {TLDR: A novel mechanism by which a cell adhesion molecule lacking inherent signaling capability evokes complex cellular responses by modulating the contact between the cell and the matrix without the requirement for direct lateral protein--protein interactions is demonstrated.}
+}
+
+@article{mahadevanDynamicsEndogenousPARP1,
+  title = {Dynamics of Endogenous {{PARP1}} and {{PARP2}} during {{DNA}} Damage Revealed by Live-Cell Single-Molecule Imaging},
+  author = {Mahadevan, Jyothi},
+  pages = {39},
+  langid = {english}
+}
+
+@article{mashitaQuantitativeControlSubcellular2024,
+  title = {Quantitative Control of Subcellular Protein Localization with a Photochromic Dimerizer},
+  author = {Mashita, Takato and Kowada, Toshiyuki and Yamamoto, Hayashi and Hamaguchi, Satoshi and Sato, Toshizo and Matsui, Toshitaka and Mizukami, Shin},
+  year = {2024},
+  month = jun,
+  journal = {Nature Chemical Biology},
+  issn = {1552-4450, 1552-4469},
+  doi = {10.1038/s41589-024-01654-w},
+  urldate = {2024-06-21},
+  langid = {english}
+}
+
+@article{MaturationEfficiencyTrypsin2005,
+  title = {Maturation Efficiency, Trypsin Sensitivity, and Optical Properties of {{Arg96}}, {{Glu222}}, and {{Gly67}} Variants of Green Fluorescent Protein},
+  year = {2005},
+  month = jul,
+  journal = {Biochemical and Biophysical Research Communications},
+  volume = {332},
+  number = {3},
+  pages = {657--663},
+  publisher = {Academic Press},
+  issn = {0006-291X},
+  doi = {10.1016/j.bbrc.2005.04.166},
+  urldate = {2023-12-10},
+  langid = {american},
+  annotation = {TLDR: Limited trypsinolysis data suggest that protein stability is largely unaffected by the presence of the chromophore, inconsistent with the mechanical compression hypothesis, but trends in optical properties may be related to the degree of chromophores charge delocalization, which is modulated by residue 96.}
+}
+
+@article{mazzieriUncleavableUPARMutant2006,
+  title = {An {{Uncleavable uPAR Mutant Allows Dissection}} of {{Signaling Pathways}} in {{uPA-dependent Cell Migration}}},
+  author = {Mazzieri, Roberta and D'Alessio, Silvia and Kenmoe, Richard Kamgang and Ossowski, Liliana and Blasi, Francesco},
+  year = {2006},
+  month = jan,
+  journal = {Molecular Biology of the Cell},
+  volume = {17},
+  number = {1},
+  pages = {367--378},
+  issn = {1059-1524, 1939-4586},
+  doi = {10.1091/mbc.e05-07-0635},
+  urldate = {2024-05-10},
+  langid = {english},
+  annotation = {TLDR: An uPAR mutant (hcr, human cleavage resistant) is exploited to dissect the pathways involved in uPA-induced cell migration and activates an alternative pathway initiated by the formation of a triple complex (uPAR-alpha3beta1-EGFR) and resulting in the autotyrosine phosphorylation of EGFR.}
+}
+
+@techreport{mcswiggenHighthroughputSingleMolecule2023,
+  type = {Preprint},
+  title = {High-Throughput Single Molecule Tracking Identifies Drug Interactions and Cellular Mechanisms},
+  author = {McSwiggen, David T. and Liu, Helen and Tan, Ruensern and Puig, Sebastia Agramunt and Akella, Lakshmi B. and Berman, Russell and Bretan, Mason and Chen, Hanzhe and Darzacq, Xavier and Ford, Kelsey and Godbey, Ruth and Gonzalez, Eric and Hanuka, Adi and Heckert, Alec and Ho, Jaclyn J. and Johnson, Stephanie L. and Kelso, Reed and Klammer, Aaron and Li, Jifu and Lin, Kevin and Margolin, Brian and McNamara, Patrick and Meyer, Lawrence and Pierce, Sarah E. and Sule, Akshay and Tang, Yangzhong and Anderson, Daniel J. and Beck, Hilary P.},
+  year = {2023},
+  month = jan,
+  institution = {Cell Biology},
+  doi = {10.1101/2023.01.05.522916},
+  urldate = {2023-02-22},
+  langid = {english}
+}
+
+@article{mengSinglemoleculeFluorescenceImaging2022,
+  title = {Single-Molecule Fluorescence Imaging and Deep Learning Reveal Highly Heterogeneous Aggregation of Amyloid-{$\beta$} 42},
+  author = {Meng, Fanjie and Yoo, Janghyun and Chung, Hoi Sung},
+  year = {2022},
+  month = mar,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {119},
+  number = {12},
+  pages = {e2116736119},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.2116736119},
+  urldate = {2022-07-04},
+  langid = {english},
+  annotation = {TLDR: This work investigated aggregation of the 42-residue isoform of amyloid {$\beta$} (A{$\beta$}42) using single-molecule fluorescence imaging and deep learning to track the growth of individual fibrils, which allows for a quantitative description of heterogeneous fibril formation and discovery of a new fibrill nucleation mechanism.}
+}
+
+@article{messinaHiddenMarkovModel2006,
+  title = {Hidden {{Markov Model Analysis}} of {{Multichromophore Photobleaching}}},
+  author = {Messina, Troy C. and Kim, Hiyun and Giurleo, Jason T. and Talaga, David S.},
+  year = {2006},
+  month = aug,
+  journal = {The Journal of Physical Chemistry B},
+  volume = {110},
+  number = {33},
+  pages = {16366--16376},
+  issn = {1520-6106, 1520-5207},
+  doi = {10.1021/jp063367k},
+  urldate = {2022-03-24},
+  langid = {english}
+}
+
+@article{michaletQuantumDotsLive2005,
+  title = {Quantum {{Dots}} for {{Live Cells}}, in {{Vivo Imaging}}, and {{Diagnostics}}},
+  author = {Michalet, X.},
+  year = {2005},
+  month = jan,
+  journal = {Science},
+  volume = {307},
+  number = {5709},
+  pages = {538--544},
+  issn = {0036-8075, 1095-9203},
+  doi = {10.1126/science.1104274},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@techreport{mikhovaSinglemoleculeImagingReveals2023,
+  type = {Preprint},
+  title = {Single-Molecule Imaging Reveals the Kinetics of Non-Homologous End-Joining in Living Cells},
+  author = {Mikhova, Mariia and Heyza, Joshua R. and Meek, Katheryn and Schmidt, Jens C.},
+  year = {2023},
+  month = jun,
+  institution = {Cell Biology},
+  doi = {10.1101/2023.06.22.546088},
+  urldate = {2023-10-18},
+  langid = {english}
+}
+
+@article{mocklSuperresolutionMicroscopySingle2020,
+  title = {Super-Resolution {{Microscopy}} with {{Single Molecules}} in {{Biology}} and {{Beyond}}--{{Essentials}}, {{Current Trends}}, and {{Future Challenges}}},
+  author = {M{\"o}ckl, Leonhard and Moerner, W. E.},
+  year = {2020},
+  month = oct,
+  journal = {Journal of the American Chemical Society},
+  volume = {142},
+  number = {42},
+  pages = {17828--17844},
+  issn = {0002-7863, 1520-5126},
+  doi = {10.1021/jacs.0c08178},
+  urldate = {2022-07-04},
+  langid = {english}
+}
+
+@article{moernerNewDirectionsSinglemolecule2007,
+  title = {New Directions in Single-Molecule Imaging and Analysis},
+  author = {Moerner, W. E.},
+  year = {2007},
+  month = jul,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {104},
+  number = {31},
+  pages = {12596--12602},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.0610081104},
+  urldate = {2025-02-15},
+  langid = {english}
+}
+
+@article{moernerViewpointSingleMolecules2020,
+  title = {Viewpoint: {{Single Molecules}} at 31: {{What}}'s {{Next}}?},
+  shorttitle = {Viewpoint},
+  author = {Moerner, W. E.},
+  year = {2020},
+  month = dec,
+  journal = {Nano Letters},
+  volume = {20},
+  number = {12},
+  pages = {8427--8429},
+  issn = {1530-6984, 1530-6992},
+  doi = {10.1021/acs.nanolett.0c04042},
+  urldate = {2022-07-08},
+  langid = {english}
+}
+
+@article{MolecularDeterminantsEfficiency2000,
+  title = {The Molecular Determinants of the Efficiency of Green Fluorescent Protein Mutants},
+  year = {2000},
+  month = jan,
+  journal = {Histology and Histopathology},
+  number = {15},
+  pages = {101--107},
+  issn = {0213-3911},
+  doi = {10.14670/HH-15.101},
+  urldate = {2024-10-15},
+  langid = {english},
+  annotation = {TLDR: The basic characteristics of wt and mutated GFP are reviewed, in particular their protein expression vs fluorescent properties, and unexpected consequences of mutations of the GFP gene are given.}
+}
+
+@article{mollerSinglemoleculeAnalysisReveals2020,
+  title = {Single-Molecule Analysis Reveals Agonist-Specific Dimer Formation of {\textmu}-Opioid Receptors},
+  author = {M{\"o}ller, Jan and Isbilir, Ali and Sungkaworn, Titiwat and Osberg, Brendan and Karathanasis, Christos and Sunkara, Vikram and Grushevskyi, Eugene O. and Bock, Andreas and Annibale, Paolo and Heilemann, Mike and Sch{\"u}tte, Christof and Lohse, Martin J.},
+  year = {2020},
+  month = sep,
+  journal = {Nature Chemical Biology},
+  volume = {16},
+  number = {9},
+  pages = {946--954},
+  issn = {1552-4450, 1552-4469},
+  doi = {10.1038/s41589-020-0566-1},
+  urldate = {2023-05-22},
+  langid = {english}
+}
+
+@article{monteilInhibitionSARSCoV2Infections2020,
+  title = {Inhibition of {{SARS-CoV-2 Infections}} in {{Engineered Human Tissues Using Clinical-Grade Soluble Human ACE2}}},
+  author = {Monteil, Vanessa and Kwon, Hyesoo and Prado, Patricia and Hagelkr{\"u}ys, Astrid and Wimmer, Reiner A. and Stahl, Martin and Leopoldi, Alexandra and Garreta, Elena and {Hurtado del Pozo}, Carmen and Prosper, Felipe and Romero, Juan Pablo and Wirnsberger, Gerald and Zhang, Haibo and Slutsky, Arthur S. and Conder, Ryan and Montserrat, Nuria and Mirazimi, Ali and Penninger, Josef M.},
+  year = {2020},
+  month = may,
+  journal = {Cell},
+  volume = {181},
+  number = {4},
+  pages = {905-913.e7},
+  issn = {00928674},
+  doi = {10.1016/j.cell.2020.04.004},
+  urldate = {2022-02-16},
+  langid = {english}
+}
+
+@article{montuoriCleavageUrokinaseReceptor2002,
+  title = {The {{Cleavage}} of the {{Urokinase Receptor Regulates Its Multiple Functions}}},
+  author = {Montuori, Nunzia and Carriero, Maria Vincenza and Salzano, Salvatore and Rossi, Guido and Ragno, Pia},
+  year = {2002},
+  month = dec,
+  journal = {Journal of Biological Chemistry},
+  volume = {277},
+  number = {49},
+  pages = {46932--46939},
+  issn = {00219258},
+  doi = {10.1074/jbc.M207494200},
+  urldate = {2024-06-13},
+  copyright = {https://www.elsevier.com/tdm/userlicense/1.0/},
+  langid = {english},
+  annotation = {TLDR: Cell adhesion assays and co-immunoprecipitation experiments indicated that uPA-mediated uPAR cleavage and D1 removal, occurring on the cell surface of several cell types, can play a fundamental role in the regulation of multiple uPAR functions.}
+}
+
+@article{myohanenDistributionLateralMobility1993,
+  title = {Distribution and Lateral Mobility of the Urokinase-Receptor Complex at the Cell Surface.},
+  author = {My{\"o}h{\"a}nen, H T and Stephens, R W and Hedman, K and Tapiovaara, H and R{\o}nne, E and {H{\o}yer-Hansen}, G and Dan{\o}, K and Vaheri, A},
+  year = {1993},
+  month = sep,
+  journal = {Journal of Histochemistry \& Cytochemistry},
+  volume = {41},
+  number = {9},
+  pages = {1291--1301},
+  issn = {0022-1554, 1551-5044},
+  doi = {10.1177/41.9.8394852},
+  urldate = {2024-05-07},
+  copyright = {http://journals.sagepub.com/page/policies/text-and-data-mining-license},
+  langid = {english},
+  annotation = {TLDR: The results suggest that occupancy of the receptor with uPA is associated with localization to cell contact sites and restricted lateral mobility.}
+}
+
+@article{nagyDramaticRiseSerum2021,
+  title = {A Dramatic Rise in Serum {{ACE2}} Activity in a Critically Ill {{COVID-19}} Patient},
+  author = {Nagy, B{\'e}la and Fejes, Zsolt and Szentkereszty, Zolt{\'a}n and S{\"u}t{\H o}, Ren{\'a}ta and V{\'a}rkonyi, Istv{\'a}n and Ajzner, {\'E}va and Kappelmayer, J{\'a}nos and Papp, Zolt{\'a}n and T{\'o}th, Attila and Fagyas, Mikl{\'o}s},
+  year = {2021},
+  month = feb,
+  journal = {International Journal of Infectious Diseases},
+  volume = {103},
+  pages = {412--414},
+  issn = {12019712},
+  doi = {10.1016/j.ijid.2020.11.184},
+  urldate = {2023-01-20},
+  langid = {english}
+}
+
+@article{nakajoStoichiometryKCNQ1KCNE12010,
+  title = {Stoichiometry of the {{KCNQ1}} - {{KCNE1}} Ion Channel Complex},
+  author = {Nakajo, Koichi and Ulbrich, Maximilian H. and Kubo, Yoshihiro and Isacoff, Ehud Y.},
+  year = {2010},
+  month = nov,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {107},
+  number = {44},
+  pages = {18862--18867},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.1010354107},
+  urldate = {2022-03-24},
+  langid = {english},
+  annotation = {TLDR: Both the voltage-dependence and kinetics of gating were found to depend on the relative densities of KCNQ1 and KCNE1, suggesting the heart rhythm may be regulated by the relative expression of the auxiliary subunit and the resulting stoichiometry of the channel complex.}
+}
+
+@article{needhamEGFROligomerizationOrganizes2016,
+  title = {{{EGFR}} Oligomerization Organizes Kinase-Active Dimers into Competent Signalling Platforms},
+  author = {Needham, Sarah R. and Roberts, Selene K. and Arkhipov, Anton and Mysore, Venkatesh P. and Tynan, Christopher J. and {Zanetti-Domingues}, Laura C. and Kim, Eric T. and Losasso, Valeria and Korovesis, Dimitrios and Hirsch, Michael and Rolfe, Daniel J. and Clarke, David T. and Winn, Martyn D. and Lajevardipour, Alireza and Clayton, Andrew H. A. and Pike, Linda J. and Perani, Michela and Parker, Peter J. and Shan, Yibing and Shaw, David E. and {Martin-Fernandez}, Marisa L.},
+  year = {2016},
+  month = oct,
+  journal = {Nature Communications},
+  volume = {7},
+  number = {1},
+  pages = {13307},
+  issn = {2041-1723},
+  doi = {10.1038/ncomms13307},
+  urldate = {2024-05-14},
+  langid = {english}
+}
+
+@article{nicovichTurningSinglemoleculeLocalization2017,
+  title = {Turning Single-Molecule Localization Microscopy into a Quantitative Bioanalytical Tool},
+  author = {Nicovich, Philip R and Owen, Dylan M and Gaus, Katharina},
+  year = {2017},
+  month = mar,
+  journal = {Nature Protocols},
+  volume = {12},
+  number = {3},
+  pages = {453--460},
+  issn = {1754-2189, 1750-2799},
+  doi = {10.1038/nprot.2016.166},
+  urldate = {2024-03-27},
+  langid = {english},
+  annotation = {TLDR: The history of SMLM is reviewed and how recent progress in methods for spatial point analysis has enabled quantitative measurement of S MLM data, providing insights into biomolecule patterning, clustering and oligomerization in biological systems are provided.}
+}
+
+@article{niehuesCollectrinlikePartSARSCoV12022,
+  title = {The Collectrin-like Part of the {{{\textsc{SARS}}}}{\textsc{-}}{{{\textsc{CoV}}}}{\textsc{-1 and -2}} Receptor {{{\textsc{ACE2}}}} Is Shed by the Metalloproteinases {{{\textsc{ADAM10}}}} and {{{\textsc{ADAM17}}}}},
+  shorttitle = {The Collectrin-like Part of The},
+  author = {Niehues, Rabea Victoria and Wozniak, Justyna and Wiersch, Florian and Lilienthal, Eva and Tacken, Nikola and Schumertl, Tim and Garbers, Christoph and Ludwig, Andreas and D{\"u}sterh{\"o}ft, Stefan},
+  year = {2022},
+  month = mar,
+  journal = {The FASEB Journal},
+  volume = {36},
+  number = {3},
+  issn = {0892-6638, 1530-6860},
+  doi = {10.1096/fj.202101521R},
+  urldate = {2023-02-15},
+  langid = {english}
+}
+
+@article{nienhausFluorescentProteinsLivecell2014,
+  title = {Fluorescent Proteins for Live-Cell Imaging with Super-Resolution},
+  author = {Nienhaus, Karin and Ulrich Nienhaus, G.},
+  year = {2014},
+  journal = {Chem. Soc. Rev.},
+  volume = {43},
+  number = {4},
+  pages = {1088--1106},
+  issn = {0306-0012, 1460-4744},
+  doi = {10.1039/C3CS60171D},
+  urldate = {2024-11-09},
+  langid = {english},
+  annotation = {TLDR: There is still room for further improvement of these important markers for live cell imaging, and special FP variants with low switching fatigue have been introduced in recent years.}
+}
+
+@article{ogawaLocalizationTraffickingTemperaturedependence1995,
+  title = {Localization, Trafficking, and Temperature-Dependence of the {{Aequorea}} Green Fluorescent Protein in Cultured Vertebrate Cells.},
+  author = {Ogawa, H and Inouye, S and Tsuji, F I and Yasuda, K and Umesono, K},
+  year = {1995},
+  month = dec,
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {92},
+  number = {25},
+  pages = {11899--11903},
+  issn = {0027-8424, 1091-6490},
+  doi = {10.1073/pnas.92.25.11899},
+  urldate = {2024-10-16},
+  langid = {english},
+  annotation = {TLDR: The GFP-human glucocorticoid receptor efficiently transactivated the mouse mammary tumor virus promoter in response to dexamethasone at 30 degrees C but not at 37 degrees C, indicating that temperature is important, even for function of the GFP fusion protein.}
+}
+
+@article{okaySingleMoleculeCharacterizationDrug2020,
+  title = {Single-{{Molecule Characterization}} of {{Drug Delivery Systems}}},
+  author = {Okay, Sezer},
+  year = {2020},
+  month = jan,
+  journal = {Assay and Drug Development Technologies},
+  volume = {18},
+  number = {1},
+  pages = {56--63},
+  issn = {1557-8127},
+  doi = {10.1089/adt.2018.903},
+  langid = {english},
+  pmid = {31573322},
+  annotation = {TLDR: In this review, the current methodologies utilized for the single-molecule characterization of mostly preferred DDS materials were presented.}
+}
+
+@article{omoteyamaIdentificationNovelSubstrates2020,
+  title = {Identification of Novel Substrates of a Disintegrin and Metalloprotease 17 by Specific Labeling of Surface Proteins},
+  author = {Omoteyama, Kazuki and Sato, Toshiyuki and Sato, Masaaki and Tsutiya, Atsuhiro and Arito, Mitsumi and Suematsu, Naoya and Kurokawa, Manae S. and Kato, Tomohiro},
+  year = {2020},
+  month = dec,
+  journal = {Heliyon},
+  volume = {6},
+  number = {12},
+  pages = {e05804},
+  issn = {24058440},
+  doi = {10.1016/j.heliyon.2020.e05804},
+  urldate = {2023-08-19},
+  langid = {english}
+}
+
+@article{ozMultifunctionalAngiotensinConverting2021,
+  title = {Multifunctional Angiotensin Converting Enzyme 2, the {{SARS-CoV-2}} Entry Receptor, and Critical Appraisal of Its Role in Acute Lung Injury},
+  author = {Oz, Murat and Lorke, Dietrich Ernst},
+  year = {2021},
+  month = apr,
+  journal = {Biomedicine \& Pharmacotherapy},
+  volume = {136},
+  pages = {111193},
+  issn = {07533322},
+  doi = {10.1016/j.biopha.2020.111193},
+  urldate = {2022-05-19},
+  langid = {english}
+}
+
+@article{padmanabhanSinglemoleculeImagingReveals2022,
+  title = {Single-molecule Imaging Reveals {{Tau}} Trapping at Nanometer-sized Dynamic Hot Spots near the Plasma Membrane That Persists after Microtubule Perturbation and Cholesterol Depletion},
+  author = {Padmanabhan, Pranesh and Kneynsberg, Andrew and Cruz, Esteban and Amor, Rumelo and Sibarita, Jean-Baptiste and G{\"o}tz, J{\"u}rgen},
+  year = {2022},
+  month = aug,
+  journal = {The EMBO Journal},
+  issn = {0261-4189, 1460-2075},
+  doi = {10.15252/embj.2022111265},
+  urldate = {2022-09-30},
+  langid = {english}
+}
+
+@article{patelAngiotensinIIInduced2014,
+  title = {Angiotensin {{II}} Induced Proteolytic Cleavage of Myocardial {{ACE2}} Is Mediated by {{TACE}}/{{ADAM-17}}: {{A}} Positive Feedback Mechanism in the {{RAS}}},
+  shorttitle = {Angiotensin {{II}} Induced Proteolytic Cleavage of Myocardial {{ACE2}} Is Mediated by {{TACE}}/{{ADAM-17}}},
+  author = {Patel, Vaibhav B. and Clarke, Nicola and Wang, Zuocheng and Fan, Dong and Parajuli, Nirmal and Basu, Ratnadeep and Putko, Brendan and Kassiri, Zamaneh and Turner, Anthony J. and Oudit, Gavin Y.},
+  year = {2014},
+  month = jan,
+  journal = {Journal of Molecular and Cellular Cardiology},
+  volume = {66},
+  pages = {167--176},
+  issn = {00222828},
+  doi = {10.1016/j.yjmcc.2013.11.017},
+  urldate = {2023-02-05},
+  langid = {english},
+  annotation = {TLDR: In conclusion, Ang II induces ACE2 shedding by promoting TACE activity as a positive feedback mechanism whereby Ang II facilitates the loss of its negative regulator, ACE2.}
+}
+
+@article{pavlouMaturationModelsFluorescent2022,
+  title = {Maturation Models of Fluorescent Proteins Are Necessary for Unbiased Estimates of Promoter Activity},
+  author = {Pavlou, Antrea and Cinquemani, Eugenio and Geiselmann, Johannes and De Jong, Hidde},
+  year = {2022},
+  month = nov,
+  journal = {Biophysical Journal},
+  volume = {121},
+  number = {21},
+  pages = {4179--4188},
+  issn = {00063495},
+  doi = {10.1016/j.bpj.2022.09.021},
+  urldate = {2024-02-19},
+  langid = {english},
+  annotation = {TLDR: This work proposes a novel approach for analyzing fluorescent reporter data by incorporating maturation dynamics in the reconstruction of promoter activities, and demonstrates by means of targeted experiments in Escherichia coli that this approach provides robust estimates and is essential for the interpretation of gene expression data.}
+}
+
+@article{pedersenDynamicsADAM17MediatedShedding2015,
+  title = {Dynamics of {{ADAM17-Mediated Shedding}} of {{ACE2 Applied}} to {{Pancreatic Islets}} of {{Male}} Db/Db {{Mice}}},
+  author = {Pedersen, Kim Brint and Chodavarapu, Harshita and Porretta, Constance and Robinson, Leonie K. and Lazartigues, Eric},
+  year = {2015},
+  month = dec,
+  journal = {Endocrinology},
+  volume = {156},
+  number = {12},
+  pages = {4411--4425},
+  issn = {0013-7227, 1945-7170},
+  doi = {10.1210/en.2015-1556},
+  urldate = {2023-01-20},
+  langid = {english},
+  annotation = {TLDR: It is concluded that whereas ADAM 17 has the ability to shed ACE2, ADAM17 does not deplete ACE2 from pancreatic islets in diabetic db/db mice.}
+}
+
+@techreport{prockoSequenceHumanACE22020,
+  type = {Preprint},
+  title = {The Sequence of Human {{ACE2}} Is Suboptimal for Binding the {{S}} Spike Protein of {{SARS}} Coronavirus 2},
+  author = {Procko, Erik},
+  year = {2020},
+  month = mar,
+  institution = {Biochemistry},
+  doi = {10.1101/2020.03.16.994236},
+  urldate = {2023-03-30},
+  langid = {english}
+}
+
+@article{ProteinDetectionBlood2021,
+  title = {Protein Detection in Blood with Single-Molecule Imaging},
+  year = {2021},
+  journal = {SCIENCE ADVANCES},
+  pages = {16},
+  langid = {english}
+}
+
+@misc{ProteinExpressionProfile,
+  title = {The Protein Expression Profile of {{ACE2}} in Human Tissues {\textbar} {{bioRxiv}}},
+  urldate = {2023-06-01},
+  howpublished = {https://www.biorxiv.org/content/10.1101/2020.03.31.016048v2}
+}
+
+@article{qinDevelopmentIntegratedAtomic2017,
+  title = {Development of {{Integrated Atomic Force Microscopy}} and {{Fluorescence Microscopy}} for {{Single-Molecule Analysis}} in {{Living Cells}}},
+  author = {Qin, Ge-Ge and Li, Wen-Hui and Xu, Jia-Chao and Kou, Xiao-Long and Zhao, Rong and Luo, Fang and Fang, Xiao-Hong},
+  year = {2017},
+  month = dec,
+  journal = {Chinese Journal of Analytical Chemistry},
+  volume = {45},
+  number = {12},
+  pages = {1813--1823},
+  issn = {18722040},
+  doi = {10.1016/S1872-2040(17)61056-9},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{radziukUltrasonicallyTreatedLiquid2016,
+  title = {Ultrasonically Treated Liquid Interfaces for Progress in Cleaning and Separation Processes},
+  author = {Radziuk, Darya and M{\"o}hwald, Helmuth},
+  year = {2016},
+  journal = {Physical Chemistry Chemical Physics},
+  volume = {18},
+  number = {1},
+  pages = {21--46},
+  issn = {1463-9076, 1463-9084},
+  doi = {10.1039/C5CP05142H},
+  urldate = {2024-11-12},
+  langid = {english}
+}
+
+@article{raschIntactCleavedUPAR2008,
+  title = {Intact and Cleaved {{uPAR}} Forms: Diagnostic and Prognostic Value in Cancer},
+  shorttitle = {Intact and Cleaved {{uPAR}} Forms},
+  author = {Rasch, G., Morten},
+  year = {2008},
+  journal = {Frontiers in Bioscience},
+  volume = {Volume},
+  number = {13},
+  pages = {6752},
+  issn = {10939946, 10934715},
+  doi = {10.2741/3186},
+  urldate = {2024-06-13},
+  langid = {english},
+  annotation = {TLDR: This review will focus on the mechanism of uPAR cleavage and the functional consequences, as well as the clinical applicability of cleaved uPAR forms, which are a strong prognostic marker in different types of cancer.}
+}
+
+@article{remingtonFluorescentProteinsMaturation2006,
+  title = {Fluorescent Proteins: Maturation, Photochemistry and Photophysics},
+  shorttitle = {Fluorescent Proteins},
+  author = {Remington, S James},
+  year = {2006},
+  month = dec,
+  journal = {Current Opinion in Structural Biology},
+  volume = {16},
+  number = {6},
+  pages = {714--721},
+  issn = {0959440X},
+  doi = {10.1016/j.sbi.2006.10.001},
+  urldate = {2023-12-10},
+  langid = {english},
+  annotation = {TLDR: It has long been appreciated that green fluorescent protein autocatalytically forms its chromophore in a host-independent process; several of the initial steps in the reaction have recently been elucidated, but the end points of the process are unexpectedly diverse, as six chemically distinct chromophores have been identified.}
+}
+
+@article{rennaEngineeringSwitchableSinglechain2022,
+  title = {Engineering a Switchable Single-Chain {{TEV}} Protease to Control Protein Maturation in Living Neurons},
+  author = {Renna, Pietro and Ripoli, Cristian and Dagliyan, Onur and Pastore, Francesco and Rinaudo, Marco and Re, Agnese and Paciello, Fabiola and Grassi, Claudio},
+  year = {2022},
+  journal = {Bioengineering \& Translational Medicine},
+  volume = {7},
+  number = {2},
+  pages = {e10292},
+  issn = {2380-6761},
+  doi = {10.1002/btm2.10292},
+  urldate = {2023-10-12},
+  langid = {english},
+  annotation = {TLDR: A new genetically encoded engineered single-chain tobacco etch virus protease is introduced, allowing to control proprotein cleavage in different compartments of living mammalian cells, and maturation of brain-derived neurotrophic factor (BDNF) in the secretory pathway is demonstrated, showing the versatility of this technique.}
+}
+
+@article{rossoPlasminogenActivationSystem2008,
+  title = {The Plasminogen Activation System in Inflammation},
+  author = {Rosso, Mario Del},
+  year = {2008},
+  journal = {Frontiers in Bioscience},
+  volume = {Volume},
+  number = {13},
+  pages = {4667},
+  issn = {10939946, 10934715},
+  doi = {10.2741/3032},
+  urldate = {2024-06-13},
+  langid = {english},
+  annotation = {TLDR: By preventing excess fibrin accumulation in inflamed tissues, the plasminogen activation system also governs the proper evolution of the inflammatory exudates and prevents the possibility of a shift from acute to chronic inflammation.}
+}
+
+@article{sanchezDirectedEvolutionImproves2020,
+  title = {Directed Evolution Improves the Catalytic Efficiency of {{TEV}} Protease},
+  author = {Sanchez, Mateo I. and Ting, Alice Y.},
+  year = {2020},
+  month = feb,
+  journal = {Nature Methods},
+  volume = {17},
+  number = {2},
+  pages = {167--174},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-019-0665-7},
+  urldate = {2023-11-10},
+  langid = {english},
+  annotation = {TLDR: A generalizable yeast-based platform for directed evolution of protease catalytic properties and both the evolved TEV mutants and the directed-evolution platform used to generate them could be beneficial across a wide range of applications.}
+}
+
+@article{scialoACE2MajorCell2020,
+  title = {{{ACE2}}: {{The Major Cell Entry Receptor}} for {{SARS-CoV-2}}},
+  shorttitle = {{{ACE2}}},
+  author = {Scialo, Filippo and Daniele, Aurora and Amato, Felice and Pastore, Lucio and Matera, Maria Gabriella and Cazzola, Mario and Castaldo, Giuseppe and Bianco, Andrea},
+  year = {2020},
+  month = dec,
+  journal = {Lung},
+  volume = {198},
+  number = {6},
+  pages = {867--877},
+  issn = {0341-2040, 1432-1750},
+  doi = {10.1007/s00408-020-00408-4},
+  urldate = {2022-02-16},
+  langid = {english},
+  annotation = {TLDR: Thorough comprehension of the role that ACE2 plays in different pathways will be the key to assess the impact that SARS-CoV-2/ACE2 binding has on organismal physiology and will help to find better therapies and diagnostic tools.}
+}
+
+@article{senguptaProbingProteinHeterogeneity2011,
+  title = {Probing Protein Heterogeneity in the Plasma Membrane Using {{PALM}} and Pair Correlation Analysis},
+  author = {Sengupta, Prabuddha and {Jovanovic-Talisman}, Tijana and Skoko, Dunja and Renz, Malte and Veatch, Sarah L and {Lippincott-Schwartz}, Jennifer},
+  year = {2011},
+  month = nov,
+  journal = {Nature Methods},
+  volume = {8},
+  number = {11},
+  pages = {969--975},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.1704},
+  urldate = {2024-05-08},
+  copyright = {http://www.springer.com/tdm},
+  langid = {english}
+}
+
+@article{seongFRETbasedVisualizationPDGF2017,
+  title = {{{FRET-based Visualization}} of {{PDGF Receptor Activation}} at {{Membrane Microdomains}}},
+  author = {Seong, Jihye and Huang, Min and Sim, Kyoung Mi and Kim, Hyunbin and Wang, Yingxiao},
+  year = {2017},
+  month = may,
+  journal = {Scientific Reports},
+  volume = {7},
+  number = {1},
+  pages = {1593},
+  issn = {2045-2322},
+  doi = {10.1038/s41598-017-01789-y},
+  urldate = {2024-05-14},
+  langid = {english}
+}
+
+@article{shaoIntranucleusSingleMoleculeImaging2018,
+  title = {Intranucleus {{Single-Molecule Imaging}} in {{Living Cells}}},
+  author = {Shao, Shipeng and Xue, Boxin and Sun, Yujie},
+  year = {2018},
+  month = jul,
+  journal = {Biophysical Journal},
+  volume = {115},
+  number = {2},
+  pages = {181--189},
+  issn = {00063495},
+  doi = {10.1016/j.bpj.2018.05.017},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: The recent methodological developments of single-molecule imaging and their emerging applications in the live nucleus are described and a perspective on future developments and applications of this field is provided.}
+}
+
+@article{shemetovNearinfraredGeneticallyEncoded2021,
+  title = {A Near-Infrared Genetically Encoded Calcium Indicator for in Vivo Imaging},
+  author = {Shemetov, Anton A. and Monakhov, Mikhail V. and Zhang, Qinrong and {Canton-Josh}, Jose Ernesto and Kumar, Manish and Chen, Maomao and Matlashov, Mikhail E. and Li, Xuan and Yang, Wei and Nie, Liming and Shcherbakova, Daria M. and Kozorovitskiy, Yevgenia and Yao, Junjie and Ji, Na and Verkhusha, Vladislav V.},
+  year = {2021},
+  month = mar,
+  journal = {Nature Biotechnology},
+  volume = {39},
+  number = {3},
+  pages = {368--377},
+  issn = {1087-0156, 1546-1696},
+  doi = {10.1038/s41587-020-0710-1},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: iGECI is an NIR FRET-based genetically encoded calcium indicator that exhibits high levels of brightness and photostability and an increase up to 600\% in the fluorescence response to calcium that can be combined with other optogenetic tools in vivo without spectral crosstalk.}
+}
+
+@article{shenSingleParticleTracking2017,
+  title = {Single {{Particle Tracking}}: {{From Theory}} to {{Biophysical Applications}}},
+  shorttitle = {Single {{Particle Tracking}}},
+  author = {Shen, Hao and Tauzin, Lawrence J. and Baiyasi, Rashad and Wang, Wenxiao and Moringo, Nicholas and Shuang, Bo and Landes, Christy F.},
+  year = {2017},
+  month = jun,
+  journal = {Chemical Reviews},
+  volume = {117},
+  number = {11},
+  pages = {7331--7376},
+  issn = {0009-2665, 1520-6890},
+  doi = {10.1021/acs.chemrev.6b00815},
+  urldate = {2022-08-15},
+  langid = {english}
+}
+
+@article{shirakabeMechanisticInsightsEctodomain2017,
+  title = {Mechanistic Insights into Ectodomain Shedding: Susceptibility of {{CADM1}} Adhesion Molecule Is Determined by Alternative Splicing and {{O-glycosylation}}},
+  shorttitle = {Mechanistic Insights into Ectodomain Shedding},
+  author = {Shirakabe, Kyoko and Omura, Takuya and Shibagaki, Yoshio and Mihara, Emiko and Homma, Keiichi and Kato, Yukinari and Yoshimura, Akihiko and Murakami, Yoshinori and Takagi, Junichi and Hattori, Seisuke and Ogawa, Yoshihiro},
+  year = {2017},
+  month = apr,
+  journal = {Scientific Reports},
+  volume = {7},
+  pages = {46174},
+  issn = {2045-2322},
+  doi = {10.1038/srep46174},
+  langid = {american},
+  pmcid = {PMC5385562},
+  pmid = {28393893},
+  annotation = {TLDR: It is reported that alternative splicing can give rise to both shedding-susceptible and shedding-resistant CADM1 (cell adhesion molecule 1) variant proteins and it is demonstrated that O-glycans adjacent to the shedding cleavage site interfere with CADM 1 shedding.}
+}
+
+@article{sideniusSheddingCleavageUrokinase2000,
+  title = {Shedding and Cleavage of the Urokinase Receptor ({{uPAR}}): Identification and Characterisation of {{uPAR}} Fragments in Vitro and in Vivo},
+  shorttitle = {Shedding and Cleavage of the Urokinase Receptor ({{uPAR}})},
+  author = {Sidenius, Nicolai and Sier, Cornelis F.M and Blasi, Francesco},
+  year = {2000},
+  month = jun,
+  journal = {FEBS Letters},
+  volume = {475},
+  number = {1},
+  pages = {52--56},
+  issn = {0014-5793, 1873-3468},
+  doi = {10.1016/S0014-5793(00)01624-0},
+  urldate = {2024-06-13},
+  copyright = {http://onlinelibrary.wiley.com/termsAndConditions\#vor},
+  langid = {english},
+  annotation = {TLDR: It is found that stimulation of U937 cells is associated with increased uPAR expression, cleavage of surface uPAR, and release of soluble fragments to the culture medium suggesting that monocytes are a source of the circulating and urinary soluble uPAR fragments found in vivo.}
+}
+
+@article{sigalVisualizingDiscoveringCellular2018,
+  title = {Visualizing and Discovering Cellular Structures with Super-Resolution Microscopy},
+  author = {Sigal, Yaron M. and Zhou, Ruobo and Zhuang, Xiaowei},
+  year = {2018},
+  month = aug,
+  journal = {Science},
+  volume = {361},
+  number = {6405},
+  pages = {880--887},
+  issn = {0036-8075, 1095-9203},
+  doi = {10.1126/science.aau1044},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: An overview of super-resolution methods, their state-of-the-art capabilities, and their constantly expanding applications to biology are provided, with a focus on the latter.}
+}
+
+@article{singhCOVID19Transmission2020,
+  title = {{{{\textsc{COVID}}}} -19 Transmission through Host Cell Directed Network of {{{\textsc{GPCR}}}}},
+  author = {Singh, Yogendra and Gupta, Gaurav and Satija, Saurabh and Pabreja, Kavita and Chellappan, Dinesh Kumar and Dua, Kamal},
+  year = {2020},
+  month = sep,
+  journal = {Drug Development Research},
+  volume = {81},
+  number = {6},
+  pages = {647--649},
+  issn = {0272-4391, 1098-2299},
+  doi = {10.1002/ddr.21674},
+  urldate = {2022-02-16},
+  langid = {english}
+}
+
+@article{smithRegulationCellSignalling2010,
+  title = {Regulation of Cell Signalling by {{uPAR}}},
+  author = {Smith, Harvey W. and Marshall, Chris J.},
+  year = {2010},
+  month = jan,
+  journal = {Nature Reviews Molecular Cell Biology},
+  volume = {11},
+  number = {1},
+  pages = {23--36},
+  issn = {1471-0072, 1471-0080},
+  doi = {10.1038/nrm2821},
+  urldate = {2024-05-07},
+  copyright = {https://www.springer.com/tdm},
+  langid = {english},
+  annotation = {TLDR: Coordination of extracellular matrix (ECM) proteolysis and cell signalling by uPAR underlies its important function in cell migration, proliferation and survival and makes it an attractive therapeutic target in cancer and inflammatory diseases.}
+}
+
+@article{stoneSuperResolutionMicroscopyShedding2017,
+  title = {Super-{{Resolution Microscopy}}: {{Shedding Light}} on the {{Cellular Plasma Membrane}}},
+  shorttitle = {Super-{{Resolution Microscopy}}},
+  author = {Stone, Matthew B. and Shelby, Sarah A. and Veatch, Sarah L.},
+  year = {2017},
+  month = jun,
+  journal = {Chemical Reviews},
+  volume = {117},
+  number = {11},
+  pages = {7457--7477},
+  issn = {0009-2665, 1520-6890},
+  doi = {10.1021/acs.chemrev.6b00716},
+  urldate = {2022-09-28},
+  langid = {english}
+}
+
+@article{stracySinglemoleculeImagingUvrA2016,
+  title = {Single-Molecule Imaging of {{UvrA}} and {{UvrB}} Recruitment to {{DNA}} Lesions in Living {{Escherichia}} Coli},
+  author = {Stracy, Mathew and Jaciuk, Marcin and Uphoff, Stephan and Kapanidis, Achillefs N. and Nowotny, Marcin and Sherratt, David J. and Zawadzki, Pawel},
+  year = {2016},
+  month = nov,
+  journal = {Nature Communications},
+  volume = {7},
+  number = {1},
+  pages = {12568},
+  issn = {2041-1723},
+  doi = {10.1038/ncomms12568},
+  urldate = {2022-11-17},
+  langid = {english},
+  annotation = {TLDR: Single-molecule fluorescence imaging is used to provide a comprehensive characterization of the lesion search, recognition and verification process in living cells and suggest a two-step `scan and recruit' model for UvrA function.}
+}
+
+@misc{StructureFunctionRelationships,
+  title = {Structure---Function Relationships in the Receptor for Urokinase-type Plasminogen Activator {{Comparison}} to Other Members of the {{Ly}}-6 Family and Snake Venom {$A$}-neurotoxins - {{Ploug}} - 1994 - {{FEBS Letters}} - {{Wiley Online Library}}},
+  urldate = {2024-01-24},
+  howpublished = {https://febs.onlinelibrary.wiley.com/doi/10.1016/0014-5793\%2894\%2900674-1}
+}
+
+@article{swiecickiStrategicApproachFluorescence2020,
+  title = {A {{Strategic Approach}} for {{Fluorescence Imaging}} of {{Membrane Proteins}} in a {{Native-like Environment}}},
+  author = {Swiecicki, Jean-Marie and Santana, Jordan Tyler and Imperiali, Barbara},
+  year = {2020},
+  month = feb,
+  journal = {Cell Chemical Biology},
+  volume = {27},
+  number = {2},
+  pages = {245-251.e3},
+  issn = {24519456},
+  doi = {10.1016/j.chembiol.2019.11.008},
+  urldate = {2024-02-19},
+  langid = {english}
+}
+
+@article{taborVisualizationLigandinducedModulation2016,
+  title = {Visualization and Ligand-Induced Modulation of Dopamine Receptor Dimerization at the Single Molecule Level},
+  author = {Tabor, Alina and Weisenburger, Siegfried and Banerjee, Ashutosh and Purkayastha, Nirupam and Kaindl, Jonas M. and H{\"u}bner, Harald and Wei, Luxi and Gr{\"o}mer, Teja W. and Kornhuber, Johannes and Tschammer, Nuska and Birdsall, Nigel J. M. and Mashanov, Gregory I. and Sandoghdar, Vahid and Gmeiner, Peter},
+  year = {2016},
+  month = sep,
+  journal = {Scientific Reports},
+  volume = {6},
+  number = {1},
+  pages = {33233},
+  issn = {2045-2322},
+  doi = {10.1038/srep33233},
+  urldate = {2024-10-16},
+  langid = {english},
+  annotation = {TLDR: Using TIRF microscopy at the single molecule level, transient formation of homodimers of dopamine receptors in the membrane of stably transfected CHO cells has been observed and the equilibrium between dimers and monomers was modulated by the binding of ligands.}
+}
+
+@article{tanDeterminationOligomericStates2022,
+  title = {Determination of Oligomeric States of Proteins via Dual-Color Colocalization with Single Molecule Localization Microscopy},
+  author = {Tan, Hua Leonhard and {Bungert-Pl{\"u}mke}, Stefanie and Kortzak, Daniel and Fahlke, Christoph and St{\"o}lting, Gabriel},
+  year = {2022},
+  month = oct,
+  journal = {eLife},
+  volume = {11},
+  pages = {e76631},
+  issn = {2050-084X},
+  doi = {10.7554/eLife.76631},
+  urldate = {2024-03-15},
+  langid = {english}
+}
+
+@article{tanDualcolorColocalizationSinglemolecule2023,
+  title = {Dual-Color {{Colocalization}} in {{Single-molecule Localization Microscopy}} to {{Determine}} the {{Oligomeric State}} of {{Proteins}} in the {{Plasma Membrane}}},
+  author = {Tan, Hua and {Bungert-Pl{\"u}mke}, Stefanie and Kortzak, Daniel and Fahlke, Christoph and St{\"o}lting, Gabriel},
+  year = {2023},
+  journal = {BIO-PROTOCOL},
+  volume = {13},
+  number = {13},
+  issn = {2331-8325},
+  doi = {10.21769/BioProtoc.4749},
+  urldate = {2024-03-07},
+  langid = {english},
+  annotation = {TLDR: The DCC strategy was used to determine the oligomeric states of membrane proteins of the SLC17 and SLC26 family with SMLM, providing a robust and efficient method for studying protein interactions.}
+}
+
+@article{tashevProDOLGeneralMethod2024,
+  title = {{{ProDOL}}: A General Method to Determine the Degree of Labeling for Staining Optimization and Molecular Counting},
+  shorttitle = {{{ProDOL}}},
+  author = {Tashev, Stanimir Asenov and Euchner, Jonas and Yserentant, Klaus and H{\"a}nselmann, Siegfried and Hild, Felix and Chmielewicz, Wioleta and Hummert, Johan and Schw{\"o}rer, Florian and Tsopoulidis, Nikolaos and Germer, Stefan and Sa{\ss}mannshausen, Zoe and Fackler, Oliver T. and Klingm{\"u}ller, Ursula and Herten, Dirk-Peter},
+  year = {2024},
+  month = aug,
+  journal = {Nature Methods},
+  volume = {21},
+  number = {9},
+  pages = {1708-1715.},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-024-02376-6},
+  urldate = {2024-08-26},
+  langid = {english}
+}
+
+@article{tatsumiEctodomainSheddingEGFR2023,
+  title = {Ectodomain Shedding of {{EGFR}} Ligands Serves as an Activation Readout for {{TRP}} Channels},
+  author = {Tatsumi, Manae and Kishi, Takayuki and Ishida, Satoru and Kawana, Hiroki and Uwamizu, Akiharu and Ono, Yuki and Kawakami, Kouki and Aoki, Junken and Inoue, Asuka},
+  year = {2023},
+  journal = {PloS One},
+  volume = {18},
+  number = {1},
+  pages = {e0280448},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0280448},
+  langid = {english},
+  pmcid = {PMC9858409},
+  pmid = {36668668},
+  annotation = {TLDR: This study demonstrated that a transforming growth factor alpha (TGF{$\alpha$}) shedding assay, previously developed for detecting G-protein--coupled receptor (GPCR) activation, can also detect TRP channel activation and improved the specificity of the shedding assay by reducing background responses mediated by endogenously expressed GPCRs.}
+}
+
+@article{thevathasanNuclearPoresVersatile2019,
+  title = {Nuclear Pores as Versatile Reference Standards for Quantitative Superresolution Microscopy},
+  author = {Thevathasan, Jervis Vermal and Kahnwald, Maurice and Cie{\'s}li{\'n}ski, Konstanty and Hoess, Philipp and Peneti, Sudheer Kumar and Reitberger, Manuel and Heid, Daniel and Kasuba, Krishna Chaitanya and Hoerner, Sarah Janice and Li, Yiming and Wu, Yu-Le and Mund, Markus and Matti, Ulf and Pereira, Pedro Matos and Henriques, Ricardo and Nijmeijer, Bianca and Kueblbeck, Moritz and Sabinina, Vilma Jimenez and Ellenberg, Jan and Ries, Jonas},
+  year = {2019},
+  month = oct,
+  journal = {Nature Methods},
+  volume = {16},
+  number = {10},
+  pages = {1045--1053},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-019-0574-9},
+  urldate = {2024-09-27},
+  langid = {english}
+}
+
+@article{turnerAngiotensinconvertingEnzyme22022,
+  title = {Angiotensin-Converting Enzyme 2 ({{ACE2}}): {{Two}} Decades of Revelations and Re-Evaluation},
+  shorttitle = {Angiotensin-Converting Enzyme 2 ({{ACE2}})},
+  author = {Turner, Anthony J. and Nalivaeva, Natalia N.},
+  year = {2022},
+  month = may,
+  journal = {Peptides},
+  volume = {151},
+  pages = {170766},
+  issn = {01969781},
+  doi = {10.1016/j.peptides.2022.170766},
+  urldate = {2023-02-05},
+  langid = {english},
+  annotation = {TLDR: For just over 20 years, ACE2 has provided numerous surprises in the field of vasoactive peptides with, no doubt, more to come but it is its central role in COVID pathology that is producing the current intense interest in its biology.}
+}
+
+@article{ulbrichSubunitCountingMembranebound2007,
+  title = {Subunit Counting in Membrane-Bound Proteins},
+  author = {Ulbrich, Maximilian H and Isacoff, Ehud Y},
+  year = {2007},
+  month = apr,
+  journal = {Nature Methods},
+  volume = {4},
+  number = {4},
+  pages = {319--321},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth1024},
+  urldate = {2024-01-11},
+  langid = {english},
+  annotation = {TLDR: A single-molecule technique for counting subunits of proteins in live cell membranes by observing bleaching steps of GFP fused to a protein of interest is described.}
+}
+
+@article{UrokinaseRegulatesVitronectin2002,
+  title = {Urokinase {{Regulates Vitronectin Binding}} by {{Controlling Urokinase Receptor Oligomerization}}},
+  year = {2002},
+  month = aug,
+  journal = {Journal of Biological Chemistry},
+  volume = {277},
+  number = {31},
+  pages = {i-ii},
+  issn = {00219258},
+  doi = {10.1016/S0021-9258(19)66212-5},
+  urldate = {2024-05-10},
+  copyright = {https://www.elsevier.com/tdm/userlicense/1.0/},
+  langid = {english}
+}
+
+@article{vamosiEGFPOligomersNatural2016,
+  title = {{{EGFP}} Oligomers as Natural Fluorescence and Hydrodynamic Standards},
+  author = {V{\'a}mosi, Gy{\"o}rgy and M{\"u}cke, Norbert and M{\"u}ller, Gabriele and Krieger, Jan Wolfgang and Curth, Ute and Langowski, J{\"o}rg and T{\'o}th, Katalin},
+  year = {2016},
+  month = sep,
+  journal = {Scientific Reports},
+  volume = {6},
+  number = {1},
+  pages = {33022},
+  issn = {2045-2322},
+  doi = {10.1038/srep33022},
+  urldate = {2024-11-06},
+  langid = {english},
+  annotation = {TLDR: These fluorescence properties of EGFP oligomeric standards can assist interpreting results from oligomerized EGFP fusion proteins of biological interest.}
+}
+
+@article{vondiezmannThreeDimensionalLocalizationSingle2017,
+  title = {Three-{{Dimensional Localization}} of {{Single Molecules}} for {{Super-Resolution Imaging}} and {{Single-Particle Tracking}}},
+  author = {{von Diezmann}, Lexy and Shechtman, Yoav and Moerner, W. E.},
+  year = {2017},
+  month = jun,
+  journal = {Chemical Reviews},
+  volume = {117},
+  number = {11},
+  pages = {7244--7275},
+  issn = {0009-2665, 1520-6890},
+  doi = {10.1021/acs.chemrev.6b00629},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{walkerOligomericOrganizationMembrane2023,
+  title = {Oligomeric Organization of Membrane Proteins from Native Membranes at Nanoscale Spatial and Single-Molecule Resolution},
+  author = {Walker, Gerard and Brown, Caroline and Ge, Xiangyu and Kumar, Shailesh and Muzumdar, Mandar D. and Gupta, Kallol and Bhattacharyya, Moitrayee},
+  year = {2023},
+  month = nov,
+  journal = {Nature Nanotechnology},
+  issn = {1748-3387, 1748-3395},
+  doi = {10.1038/s41565-023-01547-4},
+  urldate = {2023-12-01},
+  langid = {english}
+}
+
+@article{wangACE2SheddingRole2022,
+  title = {{{ACE2 Shedding}} and the {{Role}} in {{COVID-19}}},
+  author = {Wang, Jieqiong and Zhao, Huiying and An, Youzhong},
+  year = {2022},
+  month = jan,
+  journal = {Frontiers in Cellular and Infection Microbiology},
+  volume = {11},
+  pages = {789180},
+  issn = {2235-2988},
+  doi = {10.3389/fcimb.2021.789180},
+  urldate = {2022-02-16},
+  langid = {english}
+}
+
+@article{wangProximityLigationtranscriptionCircuitpowered2023,
+  title = {Proximity Ligation-Transcription Circuit-Powered Exponential Amplifications for Single-Molecule Monitoring of Telomerase in Human Cells},
+  author = {Wang, Li-juan and Lv, Meng-meng and Hu, Jin-ping and Liu, Meng and Zhang, Chun-yang},
+  year = {2023},
+  journal = {Chemical Communications},
+  volume = {59},
+  number = {9},
+  pages = {1181--1184},
+  issn = {1359-7345, 1364-548X},
+  doi = {10.1039/D2CC06087F},
+  urldate = {2024-11-28},
+  langid = {english},
+  annotation = {TLDR: This new strategy for single-molecule monitoring of telomerase based on proximity ligation-transcription circuit-powered exponential amplifications exhibits high sensitivity with a detection limit, and can screen potential inhibitors, discriminate telomersase from interferents, and distinguish cancer cells from normal cells.}
+}
+
+@article{warnerAngiotensinconvertingEnzyme22005,
+  title = {Angiotensin-Converting {{Enzyme}} 2 ({{ACE2}}), {{But Not ACE}}, {{Is Preferentially Localized}} to the {{Apical Surface}} of {{Polarized Kidney Cells}}},
+  author = {Warner, Fiona J. and Lew, Rebecca A. and Smith, A. Ian and Lambert, Daniel W. and Hooper, Nigel M. and Turner, Anthony J.},
+  year = {2005},
+  month = nov,
+  journal = {Journal of Biological Chemistry},
+  volume = {280},
+  number = {47},
+  pages = {39353--39362},
+  issn = {00219258},
+  doi = {10.1074/jbc.M508914200},
+  urldate = {2023-02-15},
+  langid = {english}
+}
+
+@article{weiIdentificationUrokinaseReceptor1994,
+  title = {Identification of the Urokinase Receptor as an Adhesion Receptor for Vitronectin.},
+  author = {Wei, Y and Waltz, D A and Rao, N and Drummond, R J and Rosenberg, S and Chapman, H A},
+  year = {1994},
+  month = dec,
+  journal = {Journal of Biological Chemistry},
+  volume = {269},
+  number = {51},
+  pages = {32380--32388},
+  issn = {00219258},
+  doi = {10.1016/S0021-9258(18)31646-6},
+  urldate = {2024-06-13},
+  copyright = {https://www.elsevier.com/tdm/userlicense/1.0/},
+  langid = {english},
+  annotation = {TLDR: It is reported that the urokinase receptor (uPAR) is also a high affinity (Kd {$<$} 30 nM) receptor for vitronectin, indicating a duality in function for the receptor that intrinsically links matrix adhesion to regulation of protease activity.}
+}
+
+@article{willsFluoroTensorIdentificationTracking2024,
+  title = {{{FluoroTensor}}: {{Identification}} and Tracking of Colocalised Molecules and Their Stoichiometries in Multi-Colour Single Molecule Imaging via Deep Learning},
+  shorttitle = {{{FluoroTensor}}},
+  author = {Wills, Max F.K. and Alejo, Carlos Bueno and Hundt, Nikolas and Hudson, Andrew J. and Eperon, Ian C.},
+  year = {2024},
+  month = dec,
+  journal = {Computational and Structural Biotechnology Journal},
+  volume = {23},
+  pages = {918--928},
+  issn = {20010370},
+  doi = {10.1016/j.csbj.2024.02.004},
+  urldate = {2024-02-26},
+  langid = {english}
+}
+
+@article{wilmesReceptorDimerizationDynamics2015,
+  title = {Receptor Dimerization Dynamics as a Regulatory Valve for Plasticity of Type {{I}} Interferon Signaling},
+  author = {Wilmes, Stephan and Beutel, Oliver and Li, Zhi and {Francois-Newton}, V{\'e}ronique and Richter, Christian P. and Janning, Dennis and Kroll, Cindy and Hanhart, Patrizia and H{\"o}tte, Katharina and You, Changjiang and Uz{\'e}, Gilles and Pellegrini, Sandra and Piehler, Jacob},
+  year = {2015},
+  month = may,
+  journal = {Journal of Cell Biology},
+  volume = {209},
+  number = {4},
+  pages = {579--593},
+  issn = {1540-8140, 0021-9525},
+  doi = {10.1083/jcb.201412049},
+  urldate = {2024-09-27},
+  langid = {english}
+}
+
+@article{wuQuantitativeDataAnalysis2020,
+  title = {Quantitative {{Data Analysis}} in {{Single-Molecule Localization Microscopy}}},
+  author = {Wu, Yu-Le and Tschanz, Aline and Krupnik, Leonard and Ries, Jonas},
+  year = {2020},
+  month = nov,
+  journal = {Trends in Cell Biology},
+  volume = {30},
+  number = {11},
+  pages = {837--851},
+  issn = {09628924},
+  doi = {10.1016/j.tcb.2020.07.005},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+
+@article{xiaoCharacterizationAngiotensinConvertingEnzyme2014,
+  title = {Characterization of {{Angiotensin-Converting Enzyme}} 2 {{Ectodomain Shedding}} from {{Mouse Proximal Tubular Cells}}},
+  author = {Xiao, Fengxia and Zimpelmann, Joseph and Agaybi, Samih and Gurley, Susan B. and Puente, Lawrence and Burns, Kevin D.},
+  editor = {Bader, Michael},
+  year = {2014},
+  month = jan,
+  journal = {PLoS ONE},
+  volume = {9},
+  number = {1},
+  pages = {e85958},
+  issn = {1932-6203},
+  doi = {10.1371/journal.pone.0085958},
+  urldate = {2022-03-02},
+  langid = {english}
+}
+
+@article{xiaoProteinKinaseCd2016,
+  title = {Protein {{Kinase C-$\delta$ Mediates Shedding}} of {{Angiotensin-Converting Enzyme}} 2 from {{Proximal Tubular Cells}}},
+  author = {Xiao, Fengxia and Zimpelmann, Joseph and Burger, Dylan and Kennedy, Christopher and H{\'e}bert, Richard L. and Burns, Kevin D.},
+  year = {2016},
+  month = jun,
+  journal = {Frontiers in Pharmacology},
+  volume = {7},
+  issn = {1663-9812},
+  doi = {10.3389/fphar.2016.00146},
+  urldate = {2022-03-02},
+  langid = {english}
+}
+
+@article{xiaSingleMoleculeFluorescenceImaging2013,
+  title = {Single-{{Molecule Fluorescence Imaging}} in {{Living Cells}}},
+  author = {Xia, Tie and Li, Nan and Fang, Xiaohong},
+  year = {2013},
+  month = apr,
+  journal = {Annual Review of Physical Chemistry},
+  volume = {64},
+  number = {1},
+  pages = {459--480},
+  issn = {0066-426X, 1545-1593},
+  doi = {10.1146/annurev-physchem-040412-110127},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: The practical considerations in designing single-molecule fluorescence imaging in cells are discussed, including the choice of fluorescent probes, labeling methods, instrumentation, and imaging techniques, and what can be learned from such characterizations.}
+}
+
+@article{xuClinicalRelevanceRole2017,
+  title = {Clinical {{Relevance}} and {{Role}} of {{Neuronal AT1 Receptors}} in {{ADAM17-Mediated ACE2 Shedding}} in {{Neurogenic Hypertension}}},
+  author = {Xu, Jiaxi and Sriramula, Srinivas and Xia, Huijing and {Moreno-Walton}, Lisa and Culicchia, Frank and Domenig, Oliver and Poglitsch, Marko and Lazartigues, Eric},
+  year = {2017},
+  month = jun,
+  journal = {Circulation Research},
+  volume = {121},
+  number = {1},
+  pages = {43--55},
+  issn = {1524-4571},
+  doi = {10.1161/CIRCRESAHA.116.310509},
+  langid = {english},
+  pmcid = {PMC5507353},
+  pmid = {28512108}
+}
+
+@article{xueTwostepMechanismGoverning2022,
+  title = {A Two-Step Mechanism Governing {{PARP1-DNA}} Retention by {{PARP}} Inhibitors},
+  author = {Xue, Huijun and Bhardwaj, Amit and Yin, Yandong and Fijen, Carel and Ephstein, Anastasiya and Zhang, Lianglin and Ding, Xia and Pascal, John M. and VanArsdale, Todd L. and Rothenberg, Eli},
+  year = {2022},
+  month = sep,
+  journal = {Science Advances},
+  volume = {8},
+  number = {36},
+  pages = {eabq0414},
+  issn = {2375-2548},
+  doi = {10.1126/sciadv.abq0414},
+  urldate = {2022-12-26},
+  langid = {english},
+  annotation = {TLDR: This study reveals a two-step mechanism by which PARPi modulate the retention of PARP1 on DNA lesions, consisting of a primary step of catalytic inhibition via binding competition with NAD+ followed by an allosteric modulation of bound PARPi.}
+}
+
+@article{yamamotoInhibitionSheddingLowDensity2017,
+  title = {Inhibition of {{Shedding}} of {{Low-Density Lipoprotein Receptor-Related Protein}} 1 {{Reverses Cartilage Matrix Degradation}} in {{Osteoarthritis}}},
+  author = {Yamamoto, Kazuhiro and Santamaria, Salvatore and Botkjaer, Kenneth A. and Dudhia, Jayesh and Troeberg, Linda and Itoh, Yoshifumi and Murphy, Gillian and Nagase, Hideaki},
+  year = {2017},
+  month = jun,
+  journal = {Arthritis \& Rheumatology (Hoboken, N.J.)},
+  volume = {69},
+  number = {6},
+  pages = {1246--1256},
+  issn = {2326-5205},
+  doi = {10.1002/art.40080},
+  langid = {english},
+  pmcid = {PMC5449214},
+  pmid = {28235248},
+  annotation = {TLDR: The aim of this study was to identify the L RP-1 sheddase(s) in human cartilage and to test whether inhibition of LRP-1 shedding prevents cartilage degradation in OA.}
+}
+
+@techreport{yanagawaTotalWorkflowsSinglemolecule2020,
+  type = {Preprint},
+  title = {Total Workflows of the Single-Molecule Imaging Analysis in Living Cells: A Tutorial Guidance to the Measurement of the Drug Effects on a {{GPCR}}},
+  shorttitle = {Total Workflows of the Single-Molecule Imaging Analysis in Living Cells},
+  author = {Yanagawa, Masataka and Sako, Yasushi},
+  year = {2020},
+  month = jun,
+  institution = {Biophysics},
+  doi = {10.1101/2020.06.08.141192},
+  urldate = {2022-10-18},
+  langid = {english}
+}
+
+@article{yeungSolubleACE2mediatedCell2021,
+  title = {Soluble {{ACE2-mediated}} Cell Entry of {{SARS-CoV-2}} via Interaction with Proteins Related to the Renin-Angiotensin System},
+  author = {Yeung, Man Lung and Teng, Jade Lee Lee and Jia, Lilong and Zhang, Chaoyu and Huang, Chengxi and Cai, Jian-Piao and Zhou, Runhong and Chan, Kwok-Hung and Zhao, Hanjun and Zhu, Lin and Siu, Kam-Leung and Fung, Sin-Yee and Yung, Susan and Chan, Tak Mao and To, Kelvin Kai-Wang and Chan, Jasper Fuk-Woo and Cai, Zongwei and Lau, Susanna Kar Pui and Chen, Zhiwei and Jin, Dong-Yan and Woo, Patrick Chiu Yat and Yuen, Kwok-Yung},
+  year = {2021},
+  month = apr,
+  journal = {Cell},
+  volume = {184},
+  number = {8},
+  pages = {2212-2228.e12},
+  issn = {1097-4172},
+  doi = {10.1016/j.cell.2021.02.053},
+  langid = {american},
+  pmcid = {PMC7923941},
+  pmid = {33713620},
+  annotation = {TLDR: Insight is shed into pathogenesis and cell entry mechanism of SARS-CoV-2 as well as potential treatment strategies for COVID-19 and the identification of VDFs and the regulatory effect of sACE2 on Sars-Cov-2 infection.}
+}
+
+@article{yinQuantitativeSingleMoleculeAnalysis2024,
+  title = {Quantitative {{Single-Molecule Analysis}} of {{Ryanodine Receptor}} 2 {{Subunit Assembly}} in {{Cardiac}} and {{Neuronal Tissues}}},
+  author = {Yin, Qianye and Aryal, Surya P. and Song, Yongwook and Fu, Xu and Richards, Christopher I.},
+  year = {2024},
+  month = oct,
+  journal = {Analytical Chemistry},
+  volume = {96},
+  number = {41},
+  pages = {16298--16306},
+  issn = {0003-2700, 1520-6882},
+  doi = {10.1021/acs.analchem.4c03314},
+  urldate = {2024-11-01},
+  copyright = {https://doi.org/10.15223/policy-029},
+  langid = {english},
+  annotation = {TLDR: A method for ex vivo receptor encapsulation and single-molecule imaging techniques from neuronal and cardiac tissues from neuronal and cardiac tissues is developed, illustrating the method's broad applicability for measuring membrane receptor assembly.}
+}
+
+@article{yuCrystalStructureCellular2022,
+  title = {Crystal Structure and Cellular Functions of {{uPAR}} Dimer},
+  author = {Yu, Shujuan and Sui, Yaqun and Wang, Jiawei and Li, Yongdong and Li, Hanlin and Cao, Yingping and Chen, Liqing and Jiang, Longguang and Yuan, Cai and Huang, Mingdong},
+  year = {2022},
+  month = mar,
+  journal = {Nature Communications},
+  volume = {13},
+  number = {1},
+  pages = {1665},
+  issn = {2041-1723},
+  doi = {10.1038/s41467-022-29344-y},
+  urldate = {2024-05-10},
+  langid = {english},
+  annotation = {TLDR: The authors solve the crystal structure of soluble uPAR dimers, identifying substantial structural changes compared to the monomer, and identify E49P as a mutation promoting dimer formation.}
+}
+
+@article{zanacchiDNAOrigamiPlatform2017,
+  title = {A {{DNA}} Origami Platform for Quantifying Protein Copy Number in Super-Resolution},
+  author = {Zanacchi, Francesca Cella and Manzo, Carlo and Alvarez, Angel S and Derr, Nathan D and {Garcia-Parajo}, Maria F and Lakadamyali, Melike},
+  year = {2017},
+  month = aug,
+  journal = {Nature Methods},
+  volume = {14},
+  number = {8},
+  pages = {789--792},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.4342},
+  urldate = {2024-11-12},
+  langid = {english}
+}
+
+@article{zatovicovaADAM10MediatesShedding2023,
+  title = {{{ADAM10}} Mediates Shedding of Carbonic Anhydrase {{IX}} Ectodomain Non-redundantly to {{ADAM17}}},
+  author = {Zatovicova, Miriam and Kajanova, Ivana and Takacova, Martina and Jelenska, Lenka and Sedlakova, Olga and Labudova, Martina and Pastorekova, Silvia},
+  year = {2023},
+  month = feb,
+  journal = {Oncology Reports},
+  volume = {49},
+  number = {2},
+  pages = {27},
+  issn = {1791-2431},
+  doi = {10.3892/or.2022.8464},
+  langid = {english},
+  pmcid = {PMC9813547},
+  pmid = {36524367},
+  annotation = {TLDR: It is shown for the first time that CA IX ECD shedding can be also executed by ADAM10, a close relative of ADAM17, via an overlapping cleavage site in the stalk region of CA IX connecting its exofacial catalytic site with the transmembrane region.}
+}
+
+@article{zhangBrightStableMonomeric2024,
+  title = {Bright and Stable Monomeric Green Fluorescent Protein Derived from {{StayGold}}},
+  author = {Zhang, Hanbin and Lesnov, Gleb D. and Subach, Oksana M. and Zhang, Wenhao and Kuzmicheva, Tatyana P. and Vlaskina, Anna V. and Samygina, Valeriya R. and Chen, Liangyi and Ye, Xianxin and Nikolaeva, Alena Yu. and Gabdulkhakov, Azat and Papadaki, Stavrini and Qin, Wenming and Borshchevskiy, Valentin and Perfilov, Maxim M. and Gavrikov, Alexey S. and Drobizhev, Mikhail and Mishin, Alexander S. and Piatkevich, Kiryl D. and Subach, Fedor V.},
+  year = {2024},
+  month = apr,
+  journal = {Nature Methods},
+  volume = {21},
+  number = {4},
+  pages = {657--665},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-024-02203-y},
+  urldate = {2024-11-11},
+  langid = {english},
+  annotation = {TLDR: Systematic benchmarking of mBaoJin against popular green fluorescent proteins and other recently introduced monomeric and pseudomonomeric derivatives of StayGold established mBaoJin as a bright and photostable fluorescent protein, exhibiting rapid maturation and high pH/chemical stability.}
+}
+
+@article{zhengRodCyclicNucleotideGated2002,
+  title = {Rod {{Cyclic Nucleotide-Gated Channels Have}} a {{Stoichiometry}} of {{Three CNGA1 Subunits}} and {{One CNGB1 Subunit}}},
+  author = {Zheng, Jie and Trudeau, Matthew C. and Zagotta, William N.},
+  year = {2002},
+  month = dec,
+  journal = {Neuron},
+  volume = {36},
+  number = {5},
+  pages = {891--896},
+  issn = {08966273},
+  doi = {10.1016/S0896-6273(02)01099-1},
+  urldate = {2024-10-21},
+  langid = {english}
+}
+
+@article{jaqamanRobustSingleparticleTracking2008,
+  title = {Robust Single-Particle Tracking in Live-Cell Time-Lapse Sequences},
+  author = {Jaqaman, Khuloud and Loerke, Dinah and Mettlen, Marcel and Kuwata, Hirotaka and Grinstein, Sergio and Schmid, Sandra L and {Gaudenz Danuser}},
+  year = {2008},
+  month = aug,
+  journal = {Nature Methods},
+  volume = {5},
+  number = {8},
+  pages = {695--702},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/nmeth.1237},
+  urldate = {2021-09-02},
+  langid = {english}
+}
+@article{helicase2007spring,
+  title={Spring-Loaded Mechanism of DNA Unwinding by Hepatitis C Virus},
+  author={Helicase, NS},
+  journal={science},
+  volume={1144130},
+  number={513},
+  pages={317},
+  year={2007}
+}
+@article{uemura2010real,
+  title={Real-time tRNA transit on single translating ribosomes at codon resolution},
+  author={Uemura, Sotaro and Aitken, Colin Echeverr{\'\i}a and Korlach, Jonas and Flusberg, Benjamin A and Turner, Stephen W and Puglisi, Joseph D},
+  journal={Nature},
+  volume={464},
+  number={7291},
+  pages={1012--1017},
+  year={2010},
+  publisher={Nature Publishing Group UK London}
+}
+@article{cohen2013proliferation,
+  title={Proliferation of amyloid-$\beta$42 aggregates occurs through a secondary nucleation mechanism},
+  author={Cohen, Samuel IA and Linse, Sara and Luheshi, Leila M and Hellstrand, Erik and White, Duncan A and Rajah, Luke and Otzen, Daniel E and Vendruscolo, Michele and Dobson, Christopher M and Knowles, Tuomas PJ},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={110},
+  number={24},
+  pages={9758--9763},
+  year={2013},
+  publisher={National Academy of Sciences}
+}
+@article{rothemund2006folding,
+  title={Folding DNA to create nanoscale shapes and patterns},
+  author={Rothemund, Paul WK},
+  journal={Nature},
+  volume={440},
+  number={7082},
+  pages={297--302},
+  year={2006},
+  publisher={Nature Publishing Group UK London}
+}
+@article{rissin2010single,
+  title={Single-molecule enzyme-linked immunosorbent assay detects serum proteins at subfemtomolar concentrations},
+  author={Rissin, David M and Kan, Cheuk W and Campbell, Todd G and Howes, Stuart C and Fournier, David R and Song, Linan and Piech, Tomasz and Patel, Purvish P and Chang, Lei and Rivnak, Andrew J and others},
+  journal={Nature biotechnology},
+  volume={28},
+  number={6},
+  pages={595--599},
+  year={2010},
+  publisher={Nature Publishing Group US New York}
+}
+@article{moerner1989optical,
+  title={Optical detection and spectroscopy of single molecules in a solid},
+  author={Moerner, William E and Kador, Lothar},
+  journal={Physical review letters},
+  volume={62},
+  number={21},
+  pages={2535},
+  year={1989},
+  publisher={APS}
+}
+@article{orrit1990single,
+  title={Single pentacene molecules detected by fluorescence excitation in a p-terphenyl crystal},
+  author={Orrit, Michel and Bernard, J},
+  journal={Physical review letters},
+  volume={65},
+  number={21},
+  pages={2716},
+  year={1990},
+  publisher={APS}
+}
+@article{shera1990detection,
+  title={Detection of single fluorescent molecules},
+  author={Shera, E Brooks and Seitzinger, Newton K and Davis, Lloyd M and Keller, Richard A and Soper, Steven A},
+  journal={Chemical Physics Letters},
+  volume={174},
+  number={6},
+  pages={553--557},
+  year={1990},
+  publisher={Elsevier}
+}
+@article{betzig1993single,
+  title={Single molecules observed by near-field scanning optical microscopy},
+  author={Betzig, Eric and Chichester, Robert J},
+  journal={Science},
+  volume={262},
+  number={5138},
+  pages={1422--1425},
+  year={1993},
+  publisher={American Association for the Advancement of Science}
+}
+@article{funatsu1995imaging,
+  title={Imaging of single fluorescent molecules and individual ATP turnovers by single myosin molecules in aqueous solution},
+  author={Funatsu, Takashi and Harada, Yoshie and Tokunaga, Makio and Saito, Kiwamu and Yanagida, Toshio},
+  journal={Nature},
+  volume={374},
+  number={6522},
+  pages={555--559},
+  year={1995},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{ha2001single,
+  title={Single-molecule fluorescence resonance energy transfer},
+  author={Ha, Taekjip},
+  journal={Methods},
+  volume={25},
+  number={1},
+  pages={78--86},
+  year={2001},
+  publisher={Elsevier}
+}
+
+@article{ha1996probing,
+  title={Probing the interaction between two single molecules: fluorescence resonance energy transfer between a single donor and a single acceptor.},
+  author={Ha, Taekjip and Enderle, Thilo and Ogletree, DF and Chemla, Daniel S and Selvin, Paul R and Weiss, Shimon},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={93},
+  number={13},
+  pages={6264--6268},
+  year={1996}
+}
+@article{noji1997direct,
+  title={Direct observation of the rotation of F1-ATPase},
+  author={Noji, Hiroyuki and Yasuda, Ryohei and Yoshida, Masasuke and Kinosita Jr, Kazuhiko},
+  journal={Nature},
+  volume={386},
+  number={6622},
+  pages={299--302},
+  year={1997},
+  publisher={Nature Publishing Group UK London}
+}
+@article{sako2000single,
+  title={Single-molecule imaging of EGFR signalling on the surface of living cells},
+  author={Sako, Yasushi and Minoghchi, Shigeru and Yanagida, Toshio},
+  journal={Nature cell biology},
+  volume={2},
+  number={3},
+  pages={168--172},
+  year={2000},
+  publisher={Nature Publishing Group}
+}
+@article{betzig2006imaging,
+  title={Imaging intracellular fluorescent proteins at nanometer resolution},
+  author={Betzig, Eric and Patterson, George H and Sougrat, Rachid and Lindwasser, O Wolf and Olenych, Scott and Bonifacino, Juan S and Davidson, Michael W and Lippincott-Schwartz, Jennifer and Hess, Harald F},
+  journal={science},
+  volume={313},
+  number={5793},
+  pages={1642--1645},
+  year={2006},
+  publisher={American Association for the Advancement of Science}
+}
+@article{rust2006sub,
+  title={Sub-diffraction-limit imaging by stochastic optical reconstruction microscopy (STORM)},
+  author={Rust, Michael J and Bates, Mark and Zhuang, Xiaowei},
+  journal={Nature methods},
+  volume={3},
+  number={10},
+  pages={793--796},
+  year={2006},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{balzarotti2017nanometer,
+  title={Nanometer resolution imaging and tracking of fluorescent molecules with minimal photon fluxes},
+  author={Balzarotti, Francisco and Eilers, Yvan and Gwosch, Klaus C and Gynn{\aa}, Arvid H and Westphal, Volker and Stefani, Fernando D and Elf, Johan and Hell, Stefan W},
+  journal={Science},
+  volume={355},
+  number={6325},
+  pages={606--612},
+  year={2017},
+  publisher={American Association for the Advancement of Science}
+}
+@article{levene2003zero,
+  title={Zero-mode waveguides for single-molecule analysis at high concentrations},
+  author={Levene, Michael J and Korlach, Jonas and Turner, Stephen W and Foquet, Mathieu and Craighead, Harold G and Webb, Watt W},
+  journal={science},
+  volume={299},
+  number={5607},
+  pages={682--686},
+  year={2003},
+  publisher={American Association for the Advancement of Science}
+}
+@article{schutz2000properties,
+  title={Properties of lipid microdomains in a muscle cell membrane visualized by single molecule microscopy},
+  author={Sch{\"u}tz, Gerhard J and Kada, Gerald and Pastushenko, Vassili Ph and Schindler, Hansgeorg},
+  journal={The EMBO journal},
+  year={2000},
+  publisher={John Wiley \& Sons, LtdChichester, UK}
+}
+@article{zhaoLigandEfficacyModulates2024,
+  title = {Ligand Efficacy Modulates Conformational Dynamics of the {$M$}-Opioid Receptor},
+  author = {Zhao, Jiawei and Elgeti, Matthias and O'Brien, Evan S. and S{\'a}r, Cec{\'i}lia P. and Ei Daibani, Amal and Heng, Jie and Sun, Xiaoou and White, Elizabeth and Che, Tao and Hubbell, Wayne L. and Kobilka, Brian K. and Chen, Chunlai},
+  year = {2024},
+  month = may,
+  journal = {Nature},
+  volume = {629},
+  number = {8011},
+  pages = {474--480},
+  issn = {0028-0836, 1476-4687},
+  doi = {10.1038/s41586-024-07295-2},
+  urldate = {2024-12-24},
+  langid = {english},
+  annotation = {TLDR: It is shown how ligand-specific conformational changes of {\textmu}OR translate into a broad range of intrinsic efficacies at the transducer level, including a pre-activated conformation that is capable of G-protein binding and a fully activated conformation that markedly reduces GDP affinity within the ternary complex.}
+}
+@article{mahadevan2023dynamics,
+  title={Dynamics of endogenous PARP1 and PARP2 during DNA damage revealed by live-cell single-molecule imaging},
+  author={Mahadevan, Jyothi and Jha, Asmita and Rudolph, Johannes and Bowerman, Samuel and Narducci, Domenic and Hansen, Anders S and Luger, Karolin},
+  journal={IScience},
+  volume={26},
+  number={1},
+  year={2023},
+  publisher={Elsevier}
+}
+@article{sniegowski2005maturation,
+  title={Maturation efficiency, trypsin sensitivity, and optical properties of Arg96, Glu222, and Gly67 variants of green fluorescent protein},
+  author={Sniegowski, Jennifer A and Phail, Marlene E and Wachter, Rebekka M},
+  journal={Biochemical and biophysical research communications},
+  volume={332},
+  number={3},
+  pages={657--663},
+  year={2005},
+  publisher={Elsevier}
+}
+@article{blasi2002upar,
+  title={uPAR: a versatile signalling orchestrator},
+  author={Blasi, Francesco and Carmeliet, Peter},
+  journal={Nature reviews Molecular cell biology},
+  volume={3},
+  number={12},
+  pages={932--943},
+  year={2002},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{montuori2002cleavage,
+  title={The cleavage of the urokinase receptor regulates its multiple functions},
+  author={Montuori, Nunzia and Carriero, Maria Vincenza and Salzano, Salvatore and Rossi, Guido and Ragno, Pia},
+  journal={Journal of biological chemistry},
+  volume={277},
+  number={49},
+  pages={46932--46939},
+  year={2002},
+  publisher={Elsevier}
+}
+@article{kim2010tnf,
+  title={TNF-$\alpha$ induces expression of urokinase-type plasminogen activator and $\beta$-catenin activation through generation of ROS in human breast epithelial cells},
+  author={Kim, Min-Jung and Kim, Do-Hee and Na, Hye-Kyung and Surh, Young-Joon},
+  journal={Biochemical pharmacology},
+  volume={80},
+  number={12},
+  pages={2092--2100},
+  year={2010},
+  publisher={Elsevier}
+}
+@article{al2023tnfalpha,
+  title={TNF$\alpha$ induces matrix metalloproteinase-9 expression in monocytic cells through ACSL1/JNK/ERK/NF-kB signaling pathways},
+  author={Al-Roub, Areej and Akhter, Nadeem and Al-Rashed, Fatema and Wilson, Ajit and Alzaid, Fawaz and Al-Mulla, Fahd and Sindhu, Sardar and Ahmad, Rasheed},
+  journal={Scientific Reports},
+  volume={13},
+  number={1},
+  pages={14351},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+@article{donadello2012supar,
+  title={suPAR as a prognostic biomarker in sepsis},
+  author={Donadello, Katia and Scolletta, Sabino and Covajes, Cecilia and Vincent, Jean-Louis},
+  journal={BMC medicine},
+  volume={10},
+  pages={1--9},
+  year={2012},
+  publisher={Springer}
+}
+@article{gustafsson2012prognostic,
+  title={The prognostic value of suPAR compared to other inflammatory markers in patients with severe sepsis},
+  author={Gustafsson, Anna and Ljunggren, Lennart and Bodelsson, Mikael and Berkestedt, Ingrid},
+  journal={Biomarker Insights},
+  volume={7},
+  pages={BMI--S9460},
+  year={2012},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+@article{enocsson2021serum,
+  title={Serum levels of the soluble urokinase plasminogen activator receptor (suPAR) correlates with disease activity in early rheumatoid arthritis and reflects joint damage over time},
+  author={Enocsson, Helena and Lukic, Tanja and Ziegelasch, Michael and Kastbom, Alf},
+  journal={Translational Research},
+  volume={232},
+  pages={142--149},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{manfredi2023soluble,
+  title={Soluble urokinase plasminogen activator receptor (suPAR) in autoimmune rheumatic and non Rheumatic diseases},
+  author={Manfredi, Mariangela and Van Hoovels, Lieve and Benucci, Maurizio and De Luca, Riccardo and Coccia, Carmela and Bernardini, Pamela and Russo, Edda and Amedei, Amedeo and Guiducci, Serena and Grossi, Valentina and others},
+  journal={Journal of Personalized Medicine},
+  volume={13},
+  number={4},
+  pages={688},
+  year={2023},
+  publisher={MDPI}
+}
+@article{andolfo2002metalloproteases,
+  title={Metalloproteases cleave the urokinase-type plasminogen activator receptor in the D1-D2 linker region and expose epitopes not present in the intact soluble receptor},
+  author={Andolfo, Annapaola and English, William R and Resnati, Massimo and Murphy, Gillian and Blasi, Francesco and Sidenius, Nicolai},
+  journal={Thrombosis and haemostasis},
+  volume={88},
+  number={08},
+  pages={298--306},
+  year={2002},
+  publisher={Schattauer GmbH}
+}
+@article{shin2007pma,
+  title={PMA-induced up-regulation of MMP-9 is regulated by a PKC$\alpha$-NF-$\kappa$B cascade in human lung epithelial cells},
+  author={Shin, Young Hyun and Yoon, Sun-Hee and Choe, Eun-Young and Cho, Sung-Hoon and Woo, Chang-Hoon and Rho, Jee-Yeon and Kim, Jae-Hong},
+  journal={Experimental \& molecular medicine},
+  volume={39},
+  number={1},
+  pages={97--105},
+  year={2007},
+  publisher={Nature Publishing Group}
+}
+@article{tarantino2014tnf,
+  title={TNF and IL-1 exhibit distinct ubiquitin requirements for inducing NEMO--IKK supramolecular structures},
+  author={Tarantino, Nadine and Tinevez, Jean-Yves and Crowell, Elizabeth Faris and Boisson, Bertrand and Henriques, Ricardo and Mhlanga, Musa and Agou, Fabrice and Isra{\"e}l, Alain and Laplantine, Emmanuel},
+  journal={Journal of Cell Biology},
+  volume={204},
+  number={2},
+  pages={231--245},
+  year={2014},
+  publisher={The Rockefeller University Press}
+}
+
+@article{yang2022surface,
+  title={Surface-engineered gold nanoclusters for stimulated emission depletion and correlated light and electron microscopy imaging},
+  author={Yang, Hongwei and Wu, Yayun and Ruan, Hefei and Guo, Feng and Liang, Yuxin and Qin, Gege and Liu, Xiaolong and Zhang, Zhen and Yuan, Jinghe and Fang, Xiaohong},
+  journal={Analytical chemistry},
+  volume={94},
+  number={7},
+  pages={3056--3064},
+  year={2022},
+  publisher={ACS Publications}
+}
+@article{finan2015set,
+  title={A set of homo-oligomeric standards allows accurate protein counting},
+  author={Finan, Kieran and Raulf, Anika and Heilemann, Mike},
+  journal={Angewandte Chemie International Edition},
+  volume={54},
+  number={41},
+  pages={12049--12052},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+@article{xu2019automated,
+  title={Automated stoichiometry analysis of single-molecule fluorescence imaging traces via deep learning},
+  author={Xu, Jiachao and Qin, Gege and Luo, Fang and Wang, Lina and Zhao, Rong and Li, Nan and Yuan, Jinghe and Fang, Xiaohong},
+  journal={Journal of the American Chemical Society},
+  volume={141},
+  number={17},
+  pages={6976--6985},
+  year={2019},
+  publisher={ACS Publications}
+}
+@article{bellon2022four,
+  title={Four-color single-molecule imaging with engineered tags resolves the molecular architecture of signaling complexes in the plasma membrane},
+  author={Bell{\'o}n, Junel Sotolongo and Birkholz, Oliver and Richter, Christian P and Eull, Florian and Kenneweg, Hella and Wilmes, Stephan and Rothbauer, Ulrich and You, Changjiang and Walter, Mark R and Kurre, Rainer and others},
+  journal={Cell reports methods},
+  volume={2},
+  number={2},
+  year={2022},
+  publisher={Elsevier}
+}
+@article{cheng2014single,
+  title={Single-molecule dynamics of site-specific labeled transforming growth factor type II receptors on living cells},
+  author={Cheng, Ming and Zhang, Wei and Yuan, Jinghe and Luo, Wangxi and Li, Nan and Lin, Shixian and Yang, Yi and Fang, Xiaohong and Chen, Peng R},
+  journal={Chemical Communications},
+  volume={50},
+  number={94},
+  pages={14724--14727},
+  year={2014},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{mcswiggenHighthroughputPlatformSinglemolecule2025,
+  title = {A High-Throughput Platform for Single-Molecule Tracking Identifies Drug Interaction and Cellular Mechanisms},
+  author = {McSwiggen, David Trombley and Liu, Helen and Tan, Ruensern and Agramunt Puig, Sebastia and Akella, Lakshmi B and Berman, Russell and Bretan, Mason and Chen, Hanzhe and Darzacq, Xavier and Ford, Kelsey and Godbey, Ruth and Gonzalez, Eric and Hanuka, Adi and Heckert, Alec and Ho, Jaclyn J and Johnson, Stephanie L and Kelso, Reed and Klammer, Aaron and Krishnamurthy, Ruchira and Li, Jifu and Lin, Kevin and Margolin, Brian and McNamara, Patrick and Meyer, Laurence and Pierce, Sarah E and Sule, Akshay and Stashko, Connor and Tang, Yangzhong and Anderson, Daniel J and Beck, Hilary P},
+  year = {2025},
+  month = jan,
+  journal = {eLife},
+  volume = {12},
+  pages = {RP93183},
+  issn = {2050-084X},
+  doi = {10.7554/eLife.93183},
+  urldate = {2025-03-09},
+  langid = {english},
+  annotation = {TLDR: The sensitivity of htSMT revealed a new correlation between ER dynamics and the ability of ER antagonists to suppress cancer cell growth, and suggested potentially novel, kinase-mediated regulatory mechanisms.}
+}
+
+@article{yasuiAutomatedSinglemoleculeImaging2018,
+  title = {Automated Single-Molecule Imaging in Living Cells},
+  author = {Yasui, Masato and Hiroshima, Michio and Kozuka, Jun and Sako, Yasushi and Ueda, Masahiro},
+  year = {2018},
+  month = dec,
+  journal = {Nature Communications},
+  volume = {9},
+  number = {1},
+  pages = {3061},
+  issn = {2041-1723},
+  doi = {10.1038/s41467-018-05524-7},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: An artificial intelligence-assisted TIRF microscope with automated cell searching and focusing is presented and used for high-throughput single-molecule imaging of EGFR dynamics in response to various stimuli.}
+}
+@article{hiroshimaLargescaleSinglemoleculeImaging2020,
+  title = {Large-Scale Single-Molecule Imaging Aided by Artificial Intelligence},
+  author = {Hiroshima, Michio and Yasui, Masato and Ueda, Masahiro},
+  year = {2020},
+  month = apr,
+  journal = {Microscopy},
+  volume = {69},
+  number = {2},
+  pages = {69--78},
+  issn = {2050-5701},
+  doi = {10.1093/jmicro/dfz116},
+  urldate = {2025-03-09},
+  copyright = {https://academic.oup.com/journals/pages/open\_access/funder\_policies/chorus/standard\_publication\_model},
+  langid = {english},
+  annotation = {TLDR: The automated in-cell single-molecule imaging system, AiSIS, could analyze 1600 cells in 1 day, which corresponds to {$\sim$} 100-fold higher efficiency than manual analysis and reveals cell-to-cell heterogeneity in the molecular behavior, which had not been recognized in previous studies.}
+}
+@article{alabiMembraneType12021,
+  title = {Membrane Type 1 Matrix Metalloproteinase Promotes {{LDL}} Receptor Shedding and Accelerates the Development of Atherosclerosis},
+  author = {Alabi, Adekunle and Xia, Xiao-Dan and Gu, Hong-Mei and Wang, Faqi and Deng, Shi-Jun and Yang, Nana and Adijiang, Ayinuer and Douglas, Donna N. and Kneteman, Norman M. and Xue, Yazhuo and Chen, Li and Qin, Shucun and Wang, Guiqing and Zhang, Da-Wei},
+  year = {2021},
+  month = dec,
+  journal = {Nature Communications},
+  volume = {12},
+  number = {1},
+  pages = {1889},
+  issn = {2041-1723},
+  doi = {10.1038/s41467-021-22167-3},
+  urldate = {2021-09-02},
+  langid = {english},
+  annotation = {TLDR: It is demonstrated that MT1-MMP promotes ectodomain shedding of hepatic LDLR, thereby regulating plasma cholesterol levels and the development of atherosclerosis, indicating the potential of MT1 -MMP inhibition as a lipid-lowering therapy.}
+}
+@article{guo2002proteomic,
+  title={A proteomic approach for the identification of cell-surface proteins shed by metalloproteases},
+  author={Guo, Lin and Eisenman, June R and Mahimkar, Rajeev M and Peschon, Jacques J and Paxton, Raymond J and Black, Roy A and Johnson, Richard S},
+  journal={Molecular \& cellular proteomics},
+  volume={1},
+  number={1},
+  pages={30--36},
+  year={2002},
+  publisher={Elsevier}
+}
+@article{huang2023sheddomedb,
+  title={SheddomeDB 2023: a revision of an ectodomain shedding database based on a comprehensive literature review and online resources},
+  author={Huang, Wun-Yi and Wu, Kun-Pin},
+  journal={Journal of Proteome Research},
+  volume={22},
+  number={8},
+  pages={2570--2576},
+  year={2023},
+  publisher={ACS Publications}
+}
+
+@article{caoDEEPSMPDeepLearning2020,
+  title = {{{DEEPSMP}}: {{A}} Deep Learning Model for Predicting the Ectodomain Shedding Events of Membrane Proteins},
+  shorttitle = {{{DEEPSMP}}},
+  author = {Cao, Zhongbo and Du, Wei and Li, Gaoyang and Cao, Huansheng},
+  year = {2020},
+  month = jun,
+  journal = {Journal of Bioinformatics and Computational Biology},
+  volume = {18},
+  number = {3},
+  pages = {2050017},
+  issn = {1757-6334},
+  doi = {10.1142/S0219720020500171},
+  langid = {english},
+  pmid = {32576054},
+  annotation = {TLDR: An end-to-end prediction model using deep neural networks with long short-term memory units and attention mechanism, to predict the ectodomain shedding events of membrane proteins only by sequence information is designed.}
+}
+
+@article{tienSheddomeDBEctodomainShedding2017,
+  title = {{{SheddomeDB}}: The Ectodomain Shedding Database for Membrane-Bound Shed Markers},
+  shorttitle = {{{SheddomeDB}}},
+  author = {Tien, Wei-Sheng and Chen, Jun-Hong and Wu, Kun-Pin},
+  year = {2017},
+  month = mar,
+  journal = {BMC Bioinformatics},
+  volume = {18},
+  number = {S3},
+  pages = {42},
+  issn = {1471-2105},
+  doi = {10.1186/s12859-017-1465-7},
+  urldate = {2022-02-14},
+  langid = {english},
+  annotation = {TLDR: SheddomeDB is the first database for the identification of experimentally validated shed membrane proteins and currently may provide the most number of membrane proteins for reviewing the shedding information and may provide a useful resource for discovering membrane-bound shed markers.}
+}
+@article{cesaratto2015engineered,
+  title={Engineered tobacco etch virus (TEV) protease active in the secretory pathway of mammalian cells},
+  author={Cesaratto, Francesca and L{\'o}pez-Requena, Alejandro and Burrone, Oscar R and Petris, Gianluca},
+  journal={Journal of biotechnology},
+  volume={212},
+  pages={159--166},
+  year={2015},
+  publisher={Elsevier}
+}
+@article{wu2009novel,
+  title={A novel method for high-level production of TEV protease by superfolder GFP Tag},
+  author={Wu, Xudong and Wu, Di and Lu, Zhisheng and Chen, Wentao and Hu, Xiaojian and Ding, Yu},
+  journal={BioMed Research International},
+  volume={2009},
+  number={1},
+  pages={591923},
+  year={2009},
+  publisher={Wiley Online Library}
+}
+
+新增
+@article{zhangBrightStableMonomeric2024,
+  title = {Bright and Stable Monomeric Green Fluorescent Protein Derived from {{StayGold}}},
+  author = {Zhang, Hanbin and Lesnov, Gleb D. and Subach, Oksana M. and Zhang, Wenhao and Kuzmicheva, Tatyana P. and Vlaskina, Anna V. and Samygina, Valeriya R. and Chen, Liangyi and Ye, Xianxin and Nikolaeva, Alena Yu. and Gabdulkhakov, Azat and Papadaki, Stavrini and Qin, Wenming and Borshchevskiy, Valentin and Perfilov, Maxim M. and Gavrikov, Alexey S. and Drobizhev, Mikhail and Mishin, Alexander S. and Piatkevich, Kiryl D. and Subach, Fedor V.},
+  year = {2024},
+  month = apr,
+  journal = {Nature Methods},
+  volume = {21},
+  number = {4},
+  pages = {657--665},
+  issn = {1548-7091, 1548-7105},
+  doi = {10.1038/s41592-024-02203-y},
+  urldate = {2024-11-11},
+  langid = {english},
+  annotation = {TLDR: Systematic benchmarking of mBaoJin against popular green fluorescent proteins and other recently introduced monomeric and pseudomonomeric derivatives of StayGold established mBaoJin as a bright and photostable fluorescent protein, exhibiting rapid maturation and high pH/chemical stability.}
+}
+
+%---------------------------------------------------------------------------%
